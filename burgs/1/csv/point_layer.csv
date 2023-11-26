@@ -1,0 +1,722 @@
+X,Y,Id,Burg,Province,Province Full Name,State,State Full Name,Culture,Religion,Population,X,Y,Latitude,Longitude,Elevation (m),Capital,Port,Citadel,Walls,Plaza,Temple,Shanty Town,icon_url
+-1.37,-14.9,"1",Piantino,Scandrigno,Scandrigno Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"12719",927,801.5,-14.9,-1.37,"9",capital,port,citadel,walls,plaza,temple,shanty town,./0.png
+-1.85,-17.33,"2",Sutralle,,,Neutrals,undefined,Human,No religion,"20304",915.5,860,-17.33,-1.85,"4",,port,citadel,walls,plaza,temple,shanty town,./0.png
+-27.25,-4.12,"3",Itsiparnuupi,,,Neutrals,undefined,Vedalken,No religion,"886",306,543,-4.12,-27.25,"9",,port,citadel,,plaza,,,./0.png
+8.42,-6.29,"4",Lostswind,,,Neutrals,undefined,Kalashtar,No religion,"4197",1162,595,-6.29,8.42,"25",,,citadel,walls,plaza,,,./0.png
+-28.97,-1.09,"5",Ukakalik,,,Neutrals,undefined,Vedalken,No religion,"2237",264.7,470.13,-1.09,-28.97,"4",,,citadel,,plaza,,,./0.png
+-10.49,7.48,"6",Kispercszek,,,Neutrals,undefined,Gnome,No religion,"508",708.21,264.39,7.48,-10.49,"36",,,citadel,,,,,./0.png
+-35.31,14.0,"7",Kesztvartos,,,Neutrals,undefined,Half-Orc,No religion,"1168",112.5,108,14,-35.31,"4",,port,citadel,,,,,./0.png
+-25.96,13.0,"8",Iolcis,,,Neutrals,undefined,Hadozee,No religion,"619",337,132,13,-25.96,"4",,port,citadel,,,,,./0.png
+-0.1,1.79,"9",Thazin,,,Neutrals,undefined,Triton,No religion,"2117",957.5,401,1.79,-0.1,"4",,port,citadel,,,,,./0.png
+32.27,-0.08,"10",Allalyma,,,Neutrals,undefined,Elf,No religion,"632",1734.5,446,-0.08,32.27,"4",,port,citadel,,,,,./0.png
+20.08,-4.04,"11",Pylissos,,,Neutrals,undefined,Kender,No religion,"683",1442,541,-4.04,20.08,"4",,port,citadel,walls,,,,./0.png
+31.48,-10.69,"12",Filnemar,,,Neutrals,undefined,Elf,No religion,"2846",1715.5,700.5,-10.69,31.48,"4",,port,citadel,,plaza,,,./0.png
+10.29,-10.95,"13",Bayant,,,Neutrals,undefined,Gith,No religion,"5118",1206.94,706.92,-10.95,10.29,"4",,,,walls,plaza,temple,shanty town,./0.png
+32.2504537216316,-23.3296702007381,"14",Oralon,Wlarith,Wlarith Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"838",1734,1004,-23.33,32.25,"4",capital,port,citadel,walls,,,,./0.png
+18.77,-3.76,"15",Pinoicea,,,Neutrals,undefined,Kender,No religion,"482",1410.43,534.14,-3.76,18.77,"9",,,,walls,,,,./0.png
+-21.87,15.15,"16",Gladsker,,,Neutrals,undefined,Bugbear,No religion,"638",435,80.5,15.15,-21.87,"4",,port,citadel,,,,,./0.png
+-32,4.56,"17",Lerencs,,,Neutrals,undefined,Orc,No religion,"684",192,334.5,4.56,-32,"4",,port,,,plaza,,,./0.png
+3.23,1.99,"18",Linlumenera,,,Neutrals,undefined,Triton,No religion,"2716",1037.56,396.19,1.99,3.23,"4",,,citadel,walls,plaza,,,./0.png
+-27.82,-4.93,"19",Hakuseq,,,Neutrals,undefined,Vedalken,No religion,"1769",292.4,562.3,-4.93,-27.82,"4",,,citadel,,,,,./0.png
+31.27,-8.87,"20",Oraloress,,,Neutrals,undefined,Elf,No religion,"2722",1710.5,657,-8.87,31.27,"4",,port,,,plaza,,,./0.png
+16.27,-11.05,"21",Tazuda,,,Neutrals,undefined,Aarakocra,No religion,"1506",1350.4,709.3,-11.05,16.27,"4",,,citadel,,,,,./0.png
+-33.31,-22.75,"22",Borga,Picepieti,Picepieti County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"6892",160.5,990,-22.75,-33.31,"4",,port,,walls,,temple,,./0.png
+8.71,-23.94,"23",Cherda,,,Neutrals,undefined,Leonin,No religion,"645",1169,1018.5,-23.94,8.71,"4",,port,,,,,,./0.png
+11.08,-6.58,"24",Moonmorest,,,Neutrals,undefined,Kalashtar,No religion,"7165",1226,602,-6.58,11.08,"25",,port,citadel,walls,plaza,temple,,./0.png
+-36.67,-12.58,"25",Cecqua,,,Neutrals,undefined,Human,No religion,"4141",80,746,-12.58,-36.67,"25",,port,citadel,,plaza,,,./0.png
+21.21,-3.42,"26",Fokongchau,,,Neutrals,undefined,Thri-kreen,No religion,"2662",1469,526,-3.42,21.21,"36",,port,citadel,walls,,,,./0.png
+-9.77,-6.69,"27",Hvamsund,,,Neutrals,undefined,Dwarf,No religion,"4068",725.5,604.5,-6.69,-9.77,"196",,port,,,plaza,,,./0.png
+3.88,11.4,"28",Chevry,,,Neutrals,undefined,Verdan,No religion,"2443",1053,170.5,11.4,3.88,"4",,port,citadel,,,,,./0.png
+0.88,1.96,"29",Inemel,,,Neutrals,undefined,Triton,No religion,"477",981.1,396.9,1.96,0.88,"4",,,citadel,,,,,./0.png
+-37.48,-4.48,"30",Carea,Guaro,Guaro County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"613",60.5,551.5,-4.48,-37.48,"4",,port,,,,,,./0.png
+9.72,-11.21,"31",Balan Ulan,,,Neutrals,undefined,Gith,No religion,"481",1193.22,712.95,-11.21,9.72,"4",,,citadel,walls,,,,./0.png
+29.48,-21.15,"32",Lyhaseradar,Selsa,Selsa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3959",1667.59,951.54,-21.15,29.48,"4",,,citadel,,,,,./0.png
+30.3,-21.34,"33",Tlindhemar,Selsa,Selsa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"458",1687.26,956.2,-21.34,30.3,"4",,,citadel,walls,plaza,,,./0.png
+-19.23,-9.81,"34",Scandolagor,,,Neutrals,undefined,Genasi,No religion,"1163",498.42,679.38,-9.81,-19.23,"9",,,,,,,,./0.png
+2.19,-11.43,"35",Venciglia,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"445",1012.48,718.31,-11.43,2.19,"9",,,,walls,,,,./0.png
+-24.29,-11.6,"36",Kuhta,,,Neutrals,undefined,Haregon,No religion,"7719",377,722.5,-11.6,-24.29,"9",,port,citadel,walls,plaza,,,./0.png
+-3.03,-13.01,"37",Sezaglia,Ancignania,Ancignania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1968",887.17,756.34,-13.01,-3.03,"9",,,,,,,,./0.png
+1.6,-12.91,"38",Veziano,Fulia,Fulia Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2060",998.47,753.75,-12.91,1.6,"9",,,,,,,,./0.png
+-2.87,-13.56,"39",Apricico,Ancignania,Ancignania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"447",891.21,769.4,-13.56,-2.87,"9",,,,,,,,./0.png
+0.84,-13.87,"40",Frasta,Vallararo,Vallararo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1235",980.12,776.78,-13.87,0.84,"9",,,citadel,,,,,./0.png
+-8.63,-6.9,"41",Snubadir,,,Neutrals,undefined,Dwarf,No religion,"451",752.82,609.59,-6.9,-8.63,"25",,,,,plaza,,,./0.png
+18.24,-6.95,"42",Oreos,,,Neutrals,undefined,Kender,No religion,"454",1397.76,610.73,-6.95,18.24,"25",,,citadel,,plaza,,,./0.png
+-6.55,-8.03,"43",Aljah,,,Neutrals,undefined,Lizardfolk,No religion,"2418",802.9,636.64,-8.03,-6.55,"36",,,citadel,walls,plaza,,,./0.png
+8.19,15.79,"44",Albafar,,,Neutrals,undefined,Yuan-ti,No religion,"3478",1156.5,65,15.79,8.19,"4",,port,,walls,plaza,,,./0.png
+-27.92,10.35,"45",Talorinhelek,,,Neutrals,undefined,Orc,No religion,"7438",290,195.5,10.35,-27.92,"4",,port,,walls,plaza,,,./0.png
+31.38,-5.19,"46",Cyhmeriussad,,,Neutrals,undefined,Elf,No religion,"5454",1713,568.5,-5.19,31.38,"4",,port,citadel,walls,,,shanty town,./0.png
+33.17,-8.17,"47",Umarius,,,Neutrals,undefined,Elf,No religion,"2843",1756,640,-8.17,33.17,"4",,port,,,,,,./0.png
+9.0,-9.62,"48",Balai,,,Neutrals,undefined,Gith,No religion,"2607",1175.91,674.82,-9.62,9,"4",,,citadel,walls,,,,./0.png
+7.87,-10.95,"49",Tsetserdos,,,Neutrals,undefined,Gith,No religion,"3949",1148.9,706.9,-10.95,7.87,"4",,,,walls,plaza,,,./0.png
+33.67,-10.25,"50",Tlindrinfe,,,Neutrals,undefined,Elf,No religion,"3856",1768,690,-10.25,33.67,"4",,port,citadel,,plaza,,,./0.png
+-30.91,-16.35,"51",Vanelba,,,Neutrals,undefined,Human,No religion,"493",218.17,836.29,-16.35,-30.91,"4",,,,,,,,./0.png
+0.94,-19.48,"52",Montecorpi,,,Neutrals,undefined,Human,No religion,"3047",982.5,911.5,-19.48,0.94,"4",,port,citadel,walls,plaza,,,./0.png
+36.17,-21.1,"53",Eldrinlu,Eseras,Eseras County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"5921",1828,950.5,-21.1,36.17,"4",,port,,walls,plaza,temple,,./0.png
+-5.06,-25.21,"54",Cerranolo,Cotelilac,Cotelilac County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"7855",838.5,1049,-25.21,-5.06,"4",,port,citadel,walls,plaza,,shanty town,./0.png
+-17.72,-9.55,"55",Forbo,,,Neutrals,undefined,Genasi,No religion,"442",534.65,673.09,-9.55,-17.72,"9",,,citadel,,,,,./0.png
+-7.92,7.8,"56",Douromarti,,,Neutrals,undefined,Giff,No religion,"2501",770,256.9,7.8,-7.92,"16",,,,,plaza,,,./0.png
+19.79,3.05,"57",Lefran,Neanalonele,Neanalonele Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Eladrin),The Egyptian Pantheon,"450",1435,370.7,3.05,19.79,"16",,,,,,,,./0.png
+-25.44,-23.65,"58",Carvi,Belalentia,Belalentia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2152",349.5,1011.5,-23.65,-25.44,"16",,port,,,plaza,,,./0.png
+-15.15,-25.15,"59",Casalleroli,Sontia,Sontia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"625",596.5,1047.5,-25.15,-15.15,"16",,port,citadel,,,,,./0.png
+9.56,-8.17,"60",Claywaven,,,Neutrals,undefined,Kalashtar,No religion,"648",1189.5,640,-8.17,9.56,"25",,port,,walls,,,,./0.png
+-30.85,-16.83,"61",Linonero,,,Neutrals,undefined,Human,No religion,"2840",219.5,848,-16.83,-30.85,"25",,port,citadel,walls,plaza,,,./0.png
+-8.79,-23,"62",Ronteravigna,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"564",749,996,-23,-8.79,"25",,port,citadel,,,,,./0.png
+3.31,-4.92,"63",Abercastros,,,Neutrals,undefined,Satyr,No religion,"4978",1039.5,562,-4.92,3.31,"64",,port,citadel,walls,,temple,,./0.png
+-14.75,-1.87,"64",Tjotbopas,Hrafrost,Hrafrost County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"770",606,489,-1.87,-14.75,"81",capital,,citadel,walls,,,,./0.png
+-8.91,-8.09,"65",Fjerfi,,,Neutrals,undefined,Dwarf,No religion,"437",746.2,638.1,-8.09,-8.91,"121",,,citadel,,,,,./0.png
+-6.12,15.63,"66",Bosting,,,Neutrals,undefined,Dragonborn,No religion,"2158",813,69,15.63,-6.12,"4",,port,,,plaza,,,./0.png
+26.38,13.04,"67",Shemla,Imsenatha,Imsenatha County,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"11388",1593,131,13.04,26.38,"4",,port,citadel,walls,plaza,temple,shanty town,./0.png
+-27.29,11.96,"68",Bolsoy,,,Neutrals,undefined,Hobgoblin,No religion,"3070",304.93,157.03,11.96,-27.29,"4",,,citadel,walls,plaza,,,./0.png
+-2.23,8.92,"69",Hrafta,,,Neutrals,undefined,Dragonborn,No religion,"5499",906.5,230,8.92,-2.23,"4",,port,citadel,walls,,,,./0.png
+28.48,9.6,"70",Briquasadhil,,,Neutrals,undefined,Elf,No religion,"570",1643.5,213.5,9.6,28.48,"4",,port,,,,,,./0.png
+30.02,5.08,"71",Math Aisese,,,Neutrals,undefined,Elf,No religion,"4189",1680.57,321.97,5.08,30.02,"4",,,,walls,plaza,,,./0.png
+4.46,1.71,"72",Lef Arlor,,,Neutrals,undefined,Triton,No religion,"4976",1067,403,1.71,4.46,"4",,port,citadel,,plaza,,,./0.png
+29.16,-1.76,"73",Thelona,,,Neutrals,undefined,Elf,No religion,"1404",1659.94,486.35,-1.76,29.16,"4",,,citadel,,,,,./0.png
+7.85,-11.39,"74",Renchbalger,,,Neutrals,undefined,Gith,No religion,"460",1148.35,717.38,-11.39,7.85,"4",,,,,,,,./0.png
+-15.79,-11.77,"75",Shinanqing,,,Neutrals,undefined,Tortle,No religion,"3964",581.07,726.55,-11.77,-15.79,"4",,,,,plaza,,,./0.png
+37.04,-16.33,"76",Thyuegheimy,Ceraloraset,Ceraloraset County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"563",1849,836,-16.33,37.04,"4",,port,,,,,,./0.png
+-30.12,-24.04,"77",Segnitinone,Frasia,Frasia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3497",237,1021,-24.04,-30.12,"4",,port,citadel,,plaza,,,./0.png
+-27.81,-24.02,"78",Orgalenza,Frasia,Frasia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2691",292.5,1020.5,-24.02,-27.81,"4",,port,citadel,walls,plaza,,,./0.png
+22.33,17.33,"79",Esariondee,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"591",1496,28,17.33,22.33,"9",,port,citadel,,plaza,,,./0.png
+-20.36,-10.36,"80",Duracentebu,,,Neutrals,undefined,Centaur,No religion,"1609",471.3,692.6,-10.36,-20.36,"9",,,citadel,,,,,./0.png
+-24.54,-10.83,"81",Pasakuma,,,Neutrals,undefined,Haregon,No religion,"4773",371,704,-10.83,-24.54,"9",,port,citadel,walls,,temple,shanty town,./0.png
+-21.64,-10.52,"82",Sareaventes,,,Neutrals,undefined,Centaur,No religion,"1127",440.54,696.49,-10.52,-21.64,"9",,,,walls,,,,./0.png
+5.12,-13.2,"83",Ricicigna,Pettefredrig,Pettefredrig County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"466",1082.86,760.7,-13.2,5.12,"9",,,citadel,,,,,./0.png
+10.29,-5.81,"84",Aurestalshi,,,Neutrals,undefined,Kalashtar,No religion,"5639",1207,583.5,-5.81,10.29,"25",,port,,walls,,temple,shanty town,./0.png
+-11.31,-23.67,"85",Sercico,Fiugliamatri,Fiugliamatri County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"5547",688.45,1012.15,-23.67,-11.31,"25",,,citadel,walls,plaza,,,./0.png
+19.76,-3.64,"86",Shautaupin,,,Neutrals,undefined,Thri-kreen,No religion,"1693",1434.2,531.4,-3.64,19.76,"81",,,citadel,,,,,./0.png
+-4.9,6.85,"87",Solsoykir,,,Neutrals,undefined,Dwarf,No religion,"4391",842.5,279.5,6.85,-4.9,"144",,port,citadel,,,,,./0.png
+10.1,16.44,"88",Yabethagroth,,,Neutrals,undefined,Fairy,No religion,"4365",1202.5,49.5,16.44,10.1,"4",,port,,,plaza,,,./0.png
+-24.25,16.64,"89",Samu,,,Neutrals,undefined,Goblin,No religion,"2841",377.92,44.71,16.64,-24.25,"4",,,citadel,walls,plaza,,,./0.png
+3.54,16.08,"90",Sungavene,,,Neutrals,undefined,Dragonborn,No religion,"1336",1045,58,16.08,3.54,"4",,port,citadel,,plaza,,,./0.png
+-7.51,14.26,"91",Tjarlaks,,,Neutrals,undefined,Dragonborn,No religion,"3790",779.74,101.82,14.26,-7.51,"4",,,,walls,,,,./0.png
+3.98,10.58,"92",Gondroy,,,Neutrals,undefined,Verdan,No religion,"842",1055.56,190.03,10.58,3.98,"4",,,citadel,,,,,./0.png
+-31.25,4.77,"93",Minarima,,,Neutrals,undefined,Loxodon,No religion,"1296",209.9,329.5,4.77,-31.25,"4",,,,,,,,./0.png
+31.29,2.92,"94",Felsemar,,,Neutrals,undefined,Elf,No religion,"423",1710.97,373.87,2.92,31.29,"4",,,,,,,,./0.png
+-16.39,-10.96,"95",Huzhou,,,Neutrals,undefined,Tortle,No religion,"1954",566.53,707.13,-10.96,-16.39,"4",,,citadel,,,,,./0.png
+5.05,-12.21,"96",Tollo,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1966",1081.09,737.14,-12.21,5.05,"4",,,citadel,,plaza,,,./0.png
+35.93,-12.24,"97",Linneas,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Astral Elf,The Egyptian Pantheon,"412",1822.28,737.7,-12.24,35.93,"4",,,,,,,,./0.png
+36.19,-12.83,"98",Evraraqualin,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"564",1828.5,752,-12.83,36.19,"4",,port,,,,,,./0.png
+36.71,-14.86,"99",Mythelohilfa,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1711",1841.05,800.55,-14.86,36.71,"4",,,citadel,,,,,./0.png
+-2.87,-17.03,"100",Conecorga,,,Neutrals,undefined,Human,No religion,"5175",891.03,852.71,-17.03,-2.87,"4",,,,walls,plaza,temple,shanty town,./0.png
+-29.3,-17.55,"101",Aunorocchia,,,Neutrals,undefined,Human,No religion,"1163",256.76,865.25,-17.55,-29.3,"4",,,citadel,,,,,./0.png
+31.6829581959088,-20.6095762197098,"102",Ithanse,Nathele,Nathele Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"6360",1720,938.5,-20.6,31.67,"4",,port,,walls,plaza,,,./0.png
+3.93,-10.62,"103",Antenazag,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"818",1054.3,698.9,-10.62,3.93,"9",,,citadel,,,,,./0.png
+-13.46,-1.86,"104",Sorbak,Nesbak,Nesbak Seneschalty,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"549",637.03,488.73,-1.86,-13.46,"16",,,,,plaza,,,./0.png
+-24.59,-23.59,"105",Carea,Belalentia,Belalentia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"435",369.82,1010.18,-23.59,-24.59,"16",,,citadel,,,,,./0.png
+-7.36,-7.84,"106",Hefar,,,Neutrals,undefined,Lizardfolk,No religion,"2440",783.3,632.2,-7.84,-7.36,"25",,,citadel,walls,plaza,,,./0.png
+4.9,-7.87,"107",Pitre,,,Neutrals,undefined,Simic,No religion,"1159",1077.5,632.83,-7.87,4.9,"25",,,citadel,,,,,./0.png
+16.25,-10.29,"108",Okuyayo,,,Neutrals,undefined,Aarakocra,No religion,"1257",1350,691,-10.29,16.25,"25",,port,citadel,,,,,./0.png
+-4.37,-9.78,"109",Ydah,,,Neutrals,undefined,Lizardfolk,No religion,"892",855.03,678.78,-9.78,-4.37,"36",,,citadel,walls,,,,./0.png
+16.71,-7.24,"110",Kauhouhuka,,,Neutrals,undefined,Kenku,No religion,"505",1360.93,617.77,-7.24,16.71,"64",,,citadel,walls,plaza,,,./0.png
+-9.22,7.48,"111",Hajfafoldvar,,,Neutrals,undefined,Gnome,No religion,"3064",738.7,264.44,7.48,-9.22,"121",,,citadel,walls,plaza,,,./0.png
+10.17,16.1,"112",Gual-Ni,,,Neutrals,undefined,Fairy,No religion,"10208",1204,57.5,16.1,10.17,"4",,port,,walls,plaza,temple,,./0.png
+-2.86,14.85,"113",Osendyr,,,Neutrals,undefined,Dragonborn,No religion,"387",891.36,87.64,14.85,-2.86,"4",,,citadel,walls,plaza,,,./0.png
+23.42,14.83,"114",Tlaugaust,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"6262",1522,88,14.83,23.42,"4",,port,citadel,walls,plaza,temple,,./0.png
+-1.5,13.57,"115",Holand,,,Neutrals,undefined,Dragonborn,No religion,"860",923.99,118.24,13.57,-1.5,"4",,,,walls,,,,./0.png
+0.56,13.61,"116",Snuba,,,Neutrals,undefined,Dragonborn,No religion,"381",973.46,117.35,13.61,0.56,"4",,,citadel,,,,,./0.png
+3.62,13.2,"117",Austsodoy,,,Neutrals,undefined,Dragonborn,No religion,"391",1046.81,127.17,13.2,3.62,"4",,,,,plaza,,,./0.png
+6.63,13.56,"118",Jadah,,,Neutrals,undefined,Yuan-ti,No religion,"3500",1119.17,118.65,13.56,6.63,"4",,,,walls,,,,./0.png
+-16.08,12.65,"119",Pseicatemea,,,Neutrals,undefined,Minotaur,No religion,"416",573.96,140.51,12.65,-16.08,"4",,,,,,,,./0.png
+1.65,12.96,"120",Naurskifla,,,Neutrals,undefined,Dragonborn,No religion,"3255",999.66,133.07,12.96,1.65,"4",,,,,,,,./0.png
+26.62,12.59,"121",Niorasaset,Imsenatha,Imsenatha County,Dranzandyndor,Empire of Dranzandyndor,Elf (Sea),The Egyptian Pantheon,"436",1598.99,141.89,12.59,26.62,"4",,,citadel,,,,,./0.png
+2.12,12.0,"122",Stoklausto,,,Neutrals,undefined,Dragonborn,No religion,"6178",1010.83,155.93,12,2.12,"4",,,citadel,walls,,,shanty town,./0.png
+-33.63,11.63,"123",Ovarmat,,,Neutrals,undefined,Half-Orc,No religion,"393",152.91,164.81,11.63,-33.63,"4",,,,,,,,./0.png
+-32.29,10.84,"124",Polas,,,Neutrals,undefined,Half-Orc,No religion,"3866",185.05,183.75,10.84,-32.29,"4",,,citadel,walls,plaza,,,./0.png
+-29.99,11.19,"125",Zircserpele,,,Neutrals,undefined,Half-Orc,No religion,"399",240.12,175.48,11.19,-29.99,"4",,,,walls,plaza,,,./0.png
+-33.09,10.44,"126",Ocsegy,,,Neutrals,undefined,Half-Orc,No religion,"381",165.81,193.45,10.44,-33.09,"4",,,citadel,,,,,./0.png
+-28.5,8.7,"127",Nalasz,,,Neutrals,undefined,Orc,No religion,"737",276.05,235.13,8.7,-28.5,"4",,,,,,,,./0.png
+-28.82,7.99,"128",Pakszentg,,,Neutrals,undefined,Orc,No religion,"1059",268.31,252.26,7.99,-28.82,"4",,,citadel,,,,,./0.png
+-32.39,7.39,"129",Hajkihar,,,Neutrals,undefined,Orc,No religion,"3216",182.72,266.69,7.39,-32.39,"4",,,citadel,walls,,,,./0.png
+-30.94,5.09,"130",Misawatara,,,Neutrals,undefined,Loxodon,No religion,"5396",217.44,321.73,5.09,-30.94,"4",,,citadel,walls,plaza,,,./0.png
+1.94,2.09,"131",Fananasin,,,Neutrals,undefined,Triton,No religion,"977",1006.46,393.76,2.09,1.94,"4",,,citadel,walls,plaza,,,./0.png
+-13.11,-1.23,"132",Sigloy,Stamstania,Stamstania County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"384",645.35,473.47,-1.23,-13.11,"4",,,citadel,,plaza,,,./0.png
+3.41,-6.32,"133",Mignes,,,Neutrals,undefined,Simic,No religion,"777",1041.85,595.66,-6.32,3.41,"4",,,,,,,,./0.png
+6.8,-7.16,"134",Aberg,,,Neutrals,undefined,Satyr,No religion,"463",1123.3,615.9,-7.16,6.8,"4",,,citadel,,,,,./0.png
+-36.5,-8.75,"135",Gavio,Citritelia,Citritelia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2751",84,654,-8.75,-36.5,"4",,port,,walls,plaza,,,./0.png
+31.21,-9.65,"136",Rethyrgor,,,Neutrals,undefined,Elf,No religion,"813",1709,675.7,-9.65,31.21,"4",,,,,plaza,,,./0.png
+8.38,-11.69,"137",Saintsayanza,,,Neutrals,undefined,Gith,No religion,"461",1161.2,724.5,-11.69,8.38,"4",,,,,,,,./0.png
+8.11,-12.02,"138",Khankhaan,,,Neutrals,undefined,Gith,No religion,"1312",1154.72,732.42,-12.02,8.11,"4",,,,,plaza,,,./0.png
+-29.01,-14.6,"139",Fiananolonsa,,,Neutrals,undefined,Human,No religion,"1388",263.88,794.43,-14.6,-29.01,"4",,,citadel,,,,,./0.png
+17.7,-16.79,"140",Kaulupa,,,Neutrals,undefined,Firbolg,No religion,"2160",1384.79,847,-16.79,17.7,"4",,,citadel,walls,,,,./0.png
+29.86,-16.46,"141",Faranathana,,,Neutrals,undefined,Elf,No religion,"1213",1676.54,839.05,-16.46,29.86,"4",,,,walls,plaza,,,./0.png
+2.01,-18.85,"142",Fiumosico,,,Neutrals,undefined,Human,No religion,"1129",1008.35,896.5,-18.85,2.01,"4",,,citadel,,,,,./0.png
+17.8,-19.06,"143",Ukueolea,,,Neutrals,undefined,Firbolg,No religion,"2107",1387.16,901.35,-19.06,17.8,"4",,,,,,,,./0.png
+28.47,-19.01,"144",Nyuegheinas,Ormmarmelfa,Ormmarmelfa Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf (Wood),The Egyptian Pantheon,"457",1643.4,900.23,-19.01,28.47,"4",,,,,,,,./0.png
+21.25,-19.8,"145",Bouazga,,,Neutrals,undefined,Tabaxi,No religion,"402",1470.04,919.27,-19.8,21.25,"4",,,citadel,,,,,./0.png
+22.63,-20.12,"146",Boussort,,,Neutrals,undefined,Tabaxi,No religion,"3919",1503.21,926.85,-20.12,22.63,"4",,,,walls,plaza,,,./0.png
+22.17,-20.76,"147",Amknastour,,,Neutrals,undefined,Tabaxi,No religion,"398",1492.1,942.19,-20.76,22.17,"4",,,,,,,,./0.png
+-2.92,-11.6,"148",Ciamponeria,Ancignania,Ancignania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"688",890,722.5,-11.6,-2.92,"9",,port,citadel,walls,,,,./0.png
+-0.81,-14.6,"149",Sontano,Scandrigno,Scandrigno Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"687",940.5,794.36,-14.6,-0.81,"9",,,,,plaza,,,./0.png
+4.14,-6.55,"150",Kaberkinver,,,Neutrals,undefined,Satyr,No religion,"403",1059.36,601.31,-6.55,4.14,"16",,,citadel,,,,,./0.png
+-5.01,-9.1,"151",Safah,,,Neutrals,undefined,Lizardfolk,No religion,"516",839.85,662.44,-9.1,-5.01,"16",,,citadel,,plaza,,,./0.png
+-18.85,-23.94,"152",Montero,Bormano,Bormano Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"5474",507.5,1018.5,-23.94,-18.85,"16",,port,,walls,,temple,,./0.png
+26.1,-6.07,"153",Fel-Did,,,Neutrals,undefined,Elf,No religion,"1864",1586.37,589.64,-6.07,26.1,"25",,,citadel,,,,,./0.png
+-35.72,-12.81,"154",Fonsamatri,,,Neutrals,undefined,Human,No religion,"1982",102.78,751.43,-12.81,-35.72,"25",,,,,plaza,,,./0.png
+-23.58,-22.78,"155",Patrivana,,,Neutrals,undefined,Human,No religion,"2309",394.04,990.83,-22.78,-23.58,"25",,,citadel,,,,,./0.png
+-7.81,-22.9,"156",Pigramere,Guino,Guino County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"9315",772.5,993.5,-22.9,-7.81,"25",,port,citadel,walls,plaza,temple,shanty town,./0.png
+-20.46,-22.94,"157",Ciamba,Vicia,Vicia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2551",469.02,994.67,-22.94,-20.46,"25",,,citadel,,plaza,,,./0.png
+24.64,3.24,"158",Umsenomanil,,,Neutrals,undefined,Elf,No religion,"396",1551.4,366.12,3.24,24.64,"36",,,citadel,,,,,./0.png
+-9.44,-7.33,"159",Ronestad,,,Neutrals,undefined,Dwarf,No religion,"1106",733.5,620,-7.33,-9.44,"36",,port,,,,,,./0.png
+-33.96,-11.23,"160",Fontegioli,,,Neutrals,undefined,Human,No religion,"2205",144.87,713.46,-11.23,-33.96,"36",,,,walls,plaza,,,./0.png
+-36.29,-13.64,"161",Tarbone,,,Neutrals,undefined,Human,No religion,"401",89.09,771.37,-13.64,-36.29,"36",,,citadel,,plaza,,,./0.png
+-22.06,-19.19,"162",Posaseno,,,Neutrals,undefined,Human,No religion,"723",430.66,904.48,-19.19,-22.06,"36",,,citadel,,,,,./0.png
+-20.59,-19.84,"163",Menfignalat,,,Neutrals,undefined,Human,No religion,"3217",465.88,920.27,-19.84,-20.59,"36",,,citadel,walls,plaza,,,./0.png
+-21.67,-21.27,"164",Naamiut,,,Neutrals,undefined,Halfling,No religion,"395",439.89,954.54,-21.27,-21.67,"36",,,,,,,,./0.png
+-5.21,-22.54,"165",Monta,Marsa,Marsa Earldom,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3864",835,985,-22.54,-5.21,"36",,port,,walls,plaza,,,./0.png
+-9.44,-23.48,"166",Inisia,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1434",733.5,1007.5,-23.48,-9.44,"36",,port,citadel,,,,,./0.png
+-20.85,-18.66,"167",Campo,,,Neutrals,undefined,Human,No religion,"3711",459.5,891.94,-18.66,-20.85,"49",,,citadel,walls,plaza,,,./0.png
+-10.39,8.65,"168",Szabads,,,Neutrals,undefined,Gnome,No religion,"3104",710.52,236.29,8.65,-10.39,"81",,,,walls,plaza,,,./0.png
+-9.3,-5.59,"169",Klakknes,,,Neutrals,undefined,Dwarf,No religion,"387",736.77,578.15,-5.59,-9.3,"100",,,citadel,,,,,./0.png
+-24.7,0.44,"170",Odingland,,,Neutrals,undefined,Dwarf,No religion,"2785",367.29,433.46,0.44,-24.7,"225",,,citadel,,plaza,,,./0.png
+-7.44,7.9,"171",Mevelsker,,,Neutrals,undefined,Dwarf,No religion,"1113",781.5,254.5,7.9,-7.44,"324",,port,,walls,,,,./0.png
+-33.44,15.56,"172",Nanyha,,,Neutrals,undefined,Half-Orc,No religion,"595",157.5,70.5,15.56,-33.44,"4",,port,citadel,,plaza,,,./0.png
+-1.56,15.15,"173",Hovden,,,Neutrals,undefined,Dragonborn,No religion,"2000",922.62,80.34,15.15,-1.56,"4",,,,walls,,,,./0.png
+-24.35,13.46,"174",Taucia,,,Neutrals,undefined,Hadozee,No religion,"3976",375.5,121,13.46,-24.35,"4",,port,,walls,plaza,,,./0.png
+-4.8,13.97,"175",Snubanes,,,Neutrals,undefined,Dragonborn,No religion,"415",844.7,108.68,13.97,-4.8,"4",,,citadel,,,,,./0.png
+2.4,13.82,"176",Bosvograv,,,Neutrals,undefined,Dragonborn,No religion,"1550",1017.71,112.24,13.82,2.4,"4",,,,walls,plaza,,,./0.png
+-32.89,12.62,"177",Kagyadiget,,,Neutrals,undefined,Half-Orc,No religion,"398",170.58,141.23,12.62,-32.89,"4",,,,,,,,./0.png
+27.46,12.27,"178",Nathelelt,Nythyrlor,Nythyrlor Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf (Sea),The Egyptian Pantheon,"384",1619.1,149.5,12.27,27.46,"4",,,citadel,,plaza,,,./0.png
+1.43,12.3,"179",Brugardur,,,Neutrals,undefined,Dragonborn,No religion,"1667",994.35,148.81,12.3,1.43,"4",,,,,,,,./0.png
+0.38,11.6,"180",Nesetnes,,,Neutrals,undefined,Dragonborn,No religion,"3681",969.24,165.64,11.6,0.38,"4",,,,walls,plaza,,,./0.png
+-29.26,9.78,"181",Jasztomazsol,,,Neutrals,undefined,Orc,No religion,"395",257.85,209.29,9.78,-29.26,"4",,,,,,,,./0.png
+-4.73,9.63,"182",Lopsvik,,,Neutrals,undefined,Autognome,No religion,"602",846.5,213,9.63,-4.73,"4",,port,citadel,,,,,./0.png
+-1.14,9.25,"183",Holennes,,,Neutrals,undefined,Dragonborn,No religion,"395",932.74,221.92,9.25,-1.14,"4",,,citadel,,,,,./0.png
+28.75,8.37,"184",Thellanar,,,Neutrals,undefined,Elf,No religion,"1280",1649.88,243.22,8.37,28.75,"4",,,citadel,walls,,,,./0.png
+29.15,7.81,"185",Lylathrionde,,,Neutrals,undefined,Elf,No religion,"2059",1659.5,256.5,7.81,29.15,"4",,port,,,,,,./0.png
+20.17,3.78,"186",Shemsesath,Neanalonele,Neanalonele Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (High),The Egyptian Pantheon,"3546",1444.2,353.3,3.78,20.17,"4",,,,walls,plaza,,,./0.png
+8.29,-9.92,"187",Tselbar,,,Neutrals,undefined,Gith,No religion,"478",1158.99,682.02,-9.92,8.29,"4",,,,,,,,./0.png
+-36.47,-10.4,"188",Fegiocemino,Citritelia,Citritelia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1443",84.7,693.69,-10.4,-36.47,"4",,,,,,,,./0.png
+32.3,-10.71,"189",Thahilte,,,Neutrals,undefined,Elf,No religion,"390",1735.23,701,-10.71,32.3,"4",,,citadel,,,,,./0.png
+-23.85,-12.25,"190",Hetti,,,Neutrals,undefined,Haregon,No religion,"7586",387.5,738,-12.25,-23.85,"4",,port,,walls,plaza,temple,,./0.png
+35.59,-15.96,"191",Neanalas,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"388",1814.24,827.14,-15.96,35.59,"4",,,,,,,,./0.png
+16.7,-17.68,"192",Peonapame,,,Neutrals,undefined,Firbolg,No religion,"1434",1360.84,868.37,-17.68,16.7,"4",,,citadel,,,,,./0.png
+13.86,-19.18,"193",Pualaiohi,,,Neutrals,undefined,Firbolg,No religion,"6618",1292.7,904.4,-19.18,13.86,"4",,,,walls,plaza,,,./0.png
+15.1,-18.82,"194",Paoanani,,,Neutrals,undefined,Firbolg,No religion,"1872",1322.52,895.65,-18.82,15.1,"4",,,citadel,,plaza,,,./0.png
+16.51,-18.78,"195",Holuamehe,,,Neutrals,undefined,Firbolg,No religion,"392",1356.28,894.81,-18.78,16.51,"4",,,citadel,,,,,./0.png
+33.13,-19.48,"196",Tlaunadidor,Inerionnor,Inerionnor County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"5307",1755.05,911.4,-19.48,33.13,"4",,,,,plaza,temple,,./0.png
+27.1,-19.96,"197",Lyelofe,Shemliebel,Shemliebel Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Wood),The Egyptian Pantheon,"1716",1610.5,923,-19.96,27.1,"4",,port,,,,,,./0.png
+22.87,-20.92,"198",Houimaga,,,Neutrals,undefined,Tabaxi,No religion,"2540",1508.95,946.19,-20.92,22.87,"4",,,citadel,,,,,./0.png
+32.72,-21.62,"199",Kalumalulume,Matha,Matha Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"5974",1745.26,962.79,-21.62,32.72,"4",,,citadel,walls,plaza,temple,,./0.png
+-34.47,-22.57,"200",Lubriacumi,Picepieti,Picepieti County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1764",132.8,985.8,-22.57,-34.47,"4",,,,,,,,./0.png
+4.07,-24.57,"201",Shatanz,,,Neutrals,undefined,Leonin,No religion,"1651",1057.8,1033.6,-24.57,4.07,"4",,,citadel,walls,,,,./0.png
+6.16,-24.93,"202",Naqshianbar,,,Neutrals,undefined,Leonin,No religion,"3538",1107.8,1042.4,-24.93,6.16,"4",,,citadel,walls,plaza,,,./0.png
+-7.94,-24.8,"203",Malegio,Guino,Guino County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"381",769.51,1039.32,-24.8,-7.94,"4",,,,,,,,./0.png
+9.29,13.61,"204",Rasam,,,Neutrals,undefined,Yuan-ti,No religion,"396",1182.85,117.39,13.61,9.29,"9",,,,walls,plaza,,,./0.png
+-21.57,-9.1,"205",Acentiomaca,,,Neutrals,undefined,Centaur,No religion,"473",442.4,662.4,-9.1,-21.57,"9",,,,walls,plaza,,,./0.png
+-18.3,-9.65,"206",Anoria,,,Neutrals,undefined,Genasi,No religion,"463",520.72,675.71,-9.65,-18.3,"9",,,citadel,,,,,./0.png
+-34.5,-9.96,"207",Cellanorani,Acquania,Acquania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4018",132.06,683.09,-9.96,-34.5,"9",,,citadel,walls,plaza,,,./0.png
+-38.62,-13.44,"208",Torbogno,,,Neutrals,undefined,Human,No religion,"1508",33,766.5,-13.44,-38.62,"9",,port,citadel,,,,,./0.png
+30.14,-14.37,"209",Imyran,,,Neutrals,undefined,Elf,No religion,"3881",1683.31,788.98,-14.37,30.14,"9",,,,walls,plaza,,,./0.png
+-3.71,-15.62,"210",Terro,,,Neutrals,undefined,Human,No religion,"2109",870.98,818.93,-15.62,-3.71,"9",,,,,plaza,,,./0.png
+-22.22,10.14,"211",Hrafjord,,,Neutrals,undefined,Dwarf,No religion,"388",426.81,200.76,10.14,-22.22,"16",,,citadel,walls,,,,./0.png
+-34.66,-8.22,"212",Canta,Acquania,Acquania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"395",128.2,641.21,-8.22,-34.66,"16",,,citadel,,,,,./0.png
+-34.64,-11.03,"213",Fonte,,,Neutrals,undefined,Human,No religion,"931",128.67,708.82,-11.03,-34.64,"16",,,,,,,,./0.png
+-24.14,-23.97,"214",Rontanoliva,Belalentia,Belalentia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3591",380.58,1019.19,-23.97,-24.14,"16",,,citadel,,plaza,,,./0.png
+-2.97,-24.39,"215",Naze,Amarinia,Amarinia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"385",888.72,1029.32,-24.39,-2.97,"16",,,,,plaza,,,./0.png
+-5.78,-25.17,"216",Spercitelli,Cotelilac,Cotelilac County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"384",821.2,1048.1,-25.17,-5.78,"16",,,citadel,,,,,./0.png
+-10.38,10.04,"217",Naluna,,,Neutrals,undefined,Gnome,No religion,"405",710.83,203.05,10.04,-10.38,"25",,,citadel,,,,,./0.png
+9.06,-5.81,"218",Putumnwell,,,Neutrals,undefined,Kalashtar,No religion,"2516",1177.34,583.54,-5.81,9.06,"25",,,,walls,plaza,,,./0.png
+10.06,-6.92,"219",Curhater,,,Neutrals,undefined,Kalashtar,No religion,"406",1201.45,610,-6.92,10.06,"25",,,citadel,walls,plaza,,,./0.png
+13.31,-11.28,"220",Kanburato,,,Neutrals,undefined,Aarakocra,No religion,"2623",1279.53,714.63,-11.28,13.31,"25",,,,,plaza,,,./0.png
+-31.74,-14.11,"221",Tolle,,,Neutrals,undefined,Human,No religion,"6580",198.2,782.63,-14.11,-31.74,"25",,,,walls,,,,./0.png
+-21.17,-23.77,"222",Carinolicumo,Vicia,Vicia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3003",451.8,1014.5,-23.77,-21.17,"25",,,,walls,plaza,,,./0.png
+24.4,2.7,"223",Wlalye,,,Neutrals,undefined,Elf,No religion,"1068",1545.71,379.18,2.7,24.4,"36",,,,,plaza,,,./0.png
+-10.56,-7.44,"224",Vopeid,,,Neutrals,undefined,Dwarf,No religion,"2602",706.5,622.5,-7.44,-10.56,"36",,,,walls,plaza,,,./0.png
+-19.17,-21.37,"225",Ventinianone,,,Neutrals,undefined,Human,No religion,"2487",499.83,956.81,-21.37,-19.17,"36",,,citadel,walls,,,,./0.png
+-21.73,-22.18,"226",Litellolo,,,Neutrals,undefined,Human,No religion,"945",438.53,976.35,-22.18,-21.73,"36",,,citadel,walls,,,,./0.png
+22.76,1.77,"227",Orrvheiben,Neanalonele,Neanalonele Shire,Dranzandyndor,Empire of Dranzandyndor,Half-Elf,The Egyptian Pantheon,"414",1506.21,401.52,1.77,22.76,"49",,,,walls,plaza,,,./0.png
+-14.72,-2.82,"228",Sigdak,Hrafrost,Hrafrost County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"1121",606.65,511.69,-2.82,-14.72,"49",,,citadel,,,,,./0.png
+-18.56,-4.24,"229",Laurey,,,Neutrals,undefined,Dwarf,No religion,"2746",514.44,545.87,-4.24,-18.56,"49",,,citadel,walls,plaza,,,./0.png
+-4.71,-3.89,"230",Stogengen,,,Neutrals,undefined,Dwarf,No religion,"2706",846.93,537.27,-3.89,-4.71,"49",,,citadel,walls,plaza,,,./0.png
+-24.05,-20.32,"231",Tolle,,,Neutrals,undefined,Human,No religion,"1035",382.84,931.71,-20.32,-24.05,"49",,,citadel,,,,,./0.png
+-15.03,-22.44,"232",Tarano,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3318",599.32,982.57,-22.44,-15.03,"49",,,,,plaza,,,./0.png
+22.65,3.86,"233",Amsenorlor,,,Neutrals,undefined,Elf,No religion,"389",1503.52,351.38,3.86,22.65,"64",,,,,plaza,,,./0.png
+18.58,3.34,"234",Inenosalor,Aymlunola,Aymlunola Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (High),The Egyptian Pantheon,"396",1405.93,363.77,3.34,18.58,"64",,,citadel,,,,,./0.png
+22.9,2.69,"235",Yeerin,,,Neutrals,undefined,Elf,No religion,"2682",1509.52,379.35,2.69,22.9,"64",,,,,plaza,,,./0.png
+-25.35,-21.2,"236",Cermo,,,Neutrals,undefined,Human,No religion,"2253",351.49,952.88,-21.2,-25.35,"64",,,,walls,plaza,,,./0.png
+-16.42,-22.74,"237",Anttata,Gecorso,Gecorso County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2612",565.81,989.74,-22.74,-16.42,"64",,,citadel,walls,,,,./0.png
+10.19,9.86,"238",Drandenilmena,,,Neutrals,undefined,Tiefling,No religion,"392",1204.63,207.39,9.86,10.19,"81",,,citadel,,,,,./0.png
+4.69,5.04,"239",Nardis,,,Neutrals,undefined,Goliath,No religion,"1853",1072.62,322.98,5.04,4.69,"81",,,citadel,,,,,./0.png
+-26.38,3.09,"240",Oldurey,,,Neutrals,undefined,Dwarf,No religion,"391",326.79,369.9,3.09,-26.38,"81",,,citadel,,,,,./0.png
+3.09,-19.38,"241",Ischia,,,Neutrals,undefined,Human,No religion,"3713",1034.12,909.14,-19.38,3.09,"81",,,,walls,plaza,,,./0.png
+-16.44,-20.79,"242",Grotrolicino,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3308",565.35,943.04,-20.79,-16.44,"81",,,,walls,plaza,,,./0.png
+2.34,6.37,"243",Natiba,,,Neutrals,undefined,Goliath,No religion,"740",1016.26,291.08,6.37,2.34,"100",,,,walls,plaza,,,./0.png
+-11.7,1.59,"244",Brauga,Solania,Solania Seneschalty,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"3157",679.13,405.91,1.59,-11.7,"100",,,citadel,walls,,,,./0.png
+-8.75,-4.02,"245",Straunah,,,Neutrals,undefined,Dwarf,No religion,"3095",749.93,540.5,-4.02,-8.75,"100",,,,walls,plaza,,,./0.png
+2.93,-15.8,"246",Femanova,Serno,Serno Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"393",1030.24,823.16,-15.8,2.93,"100",,,citadel,,,,,./0.png
+-8.48,7.81,"247",Adudvarkegy,,,Neutrals,undefined,Gnome,No religion,"8366",756.5,256.5,7.81,-8.48,"121",,port,,walls,plaza,temple,,./0.png
+10.62,7.13,"248",Linargarith,,,Neutrals,undefined,Tiefling,No religion,"1882",1214.84,272.84,7.13,10.62,"121",,,,,,,,./0.png
+-5.29,-2.09,"249",Salkes,,,Neutrals,undefined,Dwarf,No religion,"781",833.14,494.19,-2.09,-5.29,"121",,,citadel,,,,,./0.png
+5.16,-7.1,"250",Chear,,,Neutrals,undefined,Satyr,No religion,"383",1083.96,614.29,-7.1,5.16,"121",,,,,,,,./0.png
+-22.31,5.68,"251",Felmengen,,,Neutrals,undefined,Dwarf,No religion,"1703",424.57,307.61,5.68,-22.31,"144",,,citadel,,,,,./0.png
+-23.59,-2.02,"252",Sollan,,,Neutrals,undefined,Dwarf,No religion,"397",393.88,492.47,-2.02,-23.59,"144",,,,walls,,,,./0.png
+17.27,-7.75,"253",Oehue,,,Neutrals,undefined,Kenku,No religion,"5917",1374.42,630.09,-7.75,17.27,"144",,,,,plaza,,,./0.png
+-14.99,2.47,"254",Zaled,Naragz,Naragz County,Tragbigia,Empire of Tragbigia,Dwarf (Hill),The Norse Pantheon,"6280",600.26,384.83,2.47,-14.99,"169",,,,walls,,,,./0.png
+-17.11,0.89,"255",Hovden,Breidravik,Breidravik County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"2528",549.39,422.59,0.89,-17.11,"196",,,citadel,,plaza,,,./0.png
+-22.17,4.66,"256",Hofndende,Bifniria,Bifniria County,Tragbigia,Empire of Tragbigia,Dwarf (Mountain),The Norse Pantheon,"2916",427.85,332.09,4.66,-22.17,"225",,,citadel,,plaza,,,./0.png
+-14.62,1.84,"257",Shathel,Naragz,Naragz County,Tragbigia,Empire of Tragbigia,Dwarf (Hill),The Norse Pantheon,"1294",609.1,399.82,1.84,-14.62,"225",,,citadel,,,,,./0.png
+-10.63,5.63,"258",Opalen,Bostad,Bostad County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"396",704.83,308.81,5.63,-10.63,"324",,,,,,,,./0.png
+-22.73,3.69,"259",Thorsjah,Rogsnesia,Rogsnesia County,Tragbigia,Empire of Tragbigia,Dwarf (Mountain),The Norse Pantheon,"3056",414.54,355.32,3.69,-22.73,"324",,,,,plaza,,,./0.png
+-21.02,-1.21,"260",Valhei,Stamland,Stamland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"405",455.61,472.95,-1.21,-21.02,"324",,,citadel,,plaza,,,./0.png
+16.28,-8.44,"261",Kaiopookea,,,Neutrals,undefined,Kenku,No religion,"2984",1350.72,646.68,-8.44,16.28,"324",,,,,plaza,,,./0.png
+-10.77,4.35,"262",Sordur,Bostad,Bostad County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"989",701.44,339.51,4.35,-10.77,"400",,,,,,,,./0.png
+-8.41,5.23,"263",Fenelahver,Hofosen,Hofosen Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"631",758.27,318.54,5.23,-8.41,"441",,,,,,,,./0.png
+-15.79,1.51,"264",Karllanvog,Breidravik,Breidravik County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"1016",581,407.85,1.51,-15.79,"676",,,citadel,,,,,./0.png
+-26.02,0.57,"265",Flostrand,Mehamnia,Mehamnia Territory,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"1869",335.54,430.25,0.57,-26.02,"676",,,,,,,,./0.png
+-12.51,3.29,"266",Olstad,Stamstania,Stamstania County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"389",659.83,365.02,3.29,-12.51,"900",,,,,plaza,,,./0.png
+-0.25,16.34,"267",Felland,,,Neutrals,undefined,Dragonborn,No religion,"2263",954.02,51.96,16.34,-0.25,"4",,,,,plaza,,,./0.png
+1.01,16.55,"268",Hokerjord,,,Neutrals,undefined,Dragonborn,No religion,"492",984.26,46.92,16.55,1.01,"4",,,citadel,,,,,./0.png
+11.96,16.55,"269",Undraurthozhor,,,Neutrals,undefined,Fairy,No religion,"383",1246.98,46.87,16.55,11.96,"4",,,citadel,,,,,./0.png
+-30.89,16.05,"270",Jarnsvolla,,,Neutrals,undefined,Kobold,No religion,"2526",218.67,58.86,16.05,-30.89,"4",,,,,plaza,,,./0.png
+-4.52,15.97,"271",Nenestoro,,,Neutrals,undefined,Dragonborn,No religion,"388",851.5,60.7,15.97,-4.52,"4",,,,,plaza,,,./0.png
+4.62,15.67,"272",Skroyavik,,,Neutrals,undefined,Dragonborn,No religion,"391",1070.8,67.83,15.67,4.62,"4",,,,,,,,./0.png
+9.27,15.8,"273",Qalbirk,,,Neutrals,undefined,Yuan-ti,No religion,"2834",1182.6,64.8,15.8,9.27,"4",,,citadel,walls,plaza,,,./0.png
+-29,15.11,"274",Bifjordal,,,Neutrals,undefined,Kobold,No religion,"1314",264.01,81.47,15.11,-29,"4",,,,,,,,./0.png
+-26.9,15.21,"275",Amju,,,Neutrals,undefined,Goblin,No religion,"2006",314.42,78.86,15.21,-26.9,"4",,,citadel,,plaza,,,./0.png
+11.79,15.33,"276",Llurthyr,,,Neutrals,undefined,Fairy,No religion,"2157",1242.97,76.11,15.33,11.79,"4",,,,,plaza,,,./0.png
+-27.84,14.6,"277",Leroyri,,,Neutrals,undefined,Hobgoblin,No religion,"1297",291.81,93.71,14.6,-27.84,"4",,,citadel,,,,,./0.png
+-25.07,14.69,"278",Pantion,,,Neutrals,undefined,Hadozee,No religion,"605",358.38,91.35,14.69,-25.07,"4",,,citadel,walls,,,,./0.png
+-4.96,14.86,"279",Olhustad,,,Neutrals,undefined,Dragonborn,No religion,"2178",840.96,87.44,14.86,-4.96,"4",,,,walls,,,,./0.png
+-3.79,14.69,"280",Onskernes,,,Neutrals,undefined,Dragonborn,No religion,"2873",869.09,91.5,14.69,-3.79,"4",,,,walls,,,,./0.png
+-29.68,14.25,"281",Braudale,,,Neutrals,undefined,Kobold,No religion,"406",247.65,102.05,14.25,-29.68,"4",,,citadel,,,,,./0.png
+-6.51,14.21,"282",Straureyri,,,Neutrals,undefined,Dragonborn,No religion,"5585",803.81,103.01,14.21,-6.51,"4",,,,walls,plaza,,shanty town,./0.png
+-0.7,13.86,"283",Bakkafjor,,,Neutrals,undefined,Dragonborn,No religion,"3294",943.13,111.42,13.86,-0.7,"4",,,,,plaza,,,./0.png
+7.83,14.14,"284",Sharadah,,,Neutrals,undefined,Yuan-ti,No religion,"3630",1148.03,104.6,14.14,7.83,"4",,,,walls,plaza,,,./0.png
+25.02,13.44,"285",Kalean,Imsenatha,Imsenatha County,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"868",1560.54,121.46,13.44,25.02,"4",,,,,,,,./0.png
+-20.92,12.57,"286",Thorstad,,,Neutrals,undefined,Bugbear,No religion,"1251",457.8,142.28,12.57,-20.92,"4",,,,,,,,./0.png
+-14.23,13.0,"287",Tithenos,,,Neutrals,undefined,Minotaur,No religion,"662",618.5,132,13,-14.23,"4",,port,citadel,,,,,./0.png
+-13.24,12.16,"288",Skylcis,,,Neutrals,undefined,Minotaur,No religion,"375",642.22,152.24,12.16,-13.24,"4",,,,,,,,./0.png
+-12.3,12.3,"289",Arnas,,,Neutrals,undefined,Minotaur,No religion,"1978",664.78,148.79,12.3,-12.3,"4",,,,,plaza,,,./0.png
+-32.06,11.64,"290",Tethardrod,,,Neutrals,undefined,Half-Orc,No religion,"1810",190.63,164.63,11.64,-32.06,"4",,,,,plaza,,,./0.png
+-1.5,11.54,"291",Solhus,,,Neutrals,undefined,Dragonborn,No religion,"5018",924,167,11.54,-1.5,"4",,port,,walls,plaza,temple,,./0.png
+-0.32,11.45,"292",Soyavikken,,,Neutrals,undefined,Dragonborn,No religion,"3894",952.27,169.11,11.45,-0.32,"4",,,citadel,,plaza,,,./0.png
+-18.2,10.75,"293",Amphicosme,,,Neutrals,undefined,Minotaur,No religion,"400",523.19,185.92,10.75,-18.2,"4",,,citadel,walls,,,,./0.png
+27.84,11.2,"294",Aleanfedil,Nythyrlor,Nythyrlor Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf (Sea),The Egyptian Pantheon,"3679",1628.12,175.13,11.2,27.84,"4",,,citadel,walls,plaza,,,./0.png
+-4.27,10.57,"295",Laudir,,,Neutrals,undefined,Autognome,No religion,"2554",857.54,190.44,10.57,-4.27,"4",,,,,plaza,,,./0.png
+-1.75,10.34,"296",Kodinde,,,Neutrals,undefined,Dragonborn,No religion,"380",918.12,195.77,10.34,-1.75,"4",,,citadel,,plaza,,,./0.png
+-31.99,9.67,"297",Nyirkesatad,,,Neutrals,undefined,Half-Orc,No religion,"1739",192.13,211.96,9.67,-31.99,"4",,,,,plaza,,,./0.png
+-31.15,9.67,"298",Dombrad,,,Neutrals,undefined,Half-Orc,No religion,"926",212.38,211.83,9.67,-31.15,"4",,,citadel,,,,,./0.png
+-28.1,8.92,"299",Csongha,,,Neutrals,undefined,Orc,No religion,"1513",285.7,230,8.92,-28.1,"4",,,citadel,,,,,./0.png
+-4.2,9.04,"300",Blokka,,,Neutrals,undefined,Autognome,No religion,"922",859.3,227.04,9.04,-4.2,"4",,,citadel,,,,,./0.png
+29.52,5.04,"301",Oloriathrion,,,Neutrals,undefined,Elf,No religion,"404",1668.4,323.08,5.04,29.52,"4",,,citadel,,plaza,,,./0.png
+32.9,2.56,"302",Senyasad,,,Neutrals,undefined,Elf,No religion,"396",1749.61,382.47,2.56,32.9,"4",,,,,,,,./0.png
+28.3,1.91,"303",Elobethse,,,Neutrals,undefined,Elf,No religion,"1325",1639.17,398.27,1.91,28.3,"4",,,citadel,,plaza,,,./0.png
+31.85,-0.8,"304",Ninenil,,,Neutrals,undefined,Elf,No religion,"3041",1724.42,463.21,-0.8,31.85,"4",,,,walls,plaza,,,./0.png
+-12.91,-2.1,"305",Sorland,,,Neutrals,undefined,Dwarf,No religion,"1230",650.19,494.36,-2.1,-12.91,"4",,,citadel,walls,,,,./0.png
+31.74,-2.46,"306",Eerarilean,,,Neutrals,undefined,Elf,No religion,"487",1721.87,502.93,-2.46,31.74,"4",,,,,,,,./0.png
+30.93,-3.41,"307",Himnalean,,,Neutrals,undefined,Elf,No religion,"381",1702.37,525.78,-3.41,30.93,"4",,,,walls,,,,./0.png
+3.13,-4.81,"308",Cascanoliso,,,Neutrals,undefined,Aasimar,No religion,"5532",1035,559.5,-4.81,3.13,"4",,port,citadel,walls,,temple,,./0.png
+29.79,-5.98,"309",Mythlond,,,Neutrals,undefined,Elf,No religion,"383",1674.92,587.41,-5.98,29.79,"4",,,,walls,,,,./0.png
+31.84,-6.4,"310",Sylleandor,,,Neutrals,undefined,Elf,No religion,"385",1724.08,597.5,-6.4,31.84,"4",,,,,plaza,,,./0.png
+-24.86,-9.82,"311",Klovspo,,,Neutrals,undefined,Haregon,No religion,"4238",363.35,679.64,-9.82,-24.86,"4",,,citadel,,,,,./0.png
+32.17,-11.38,"312",Vemellanara,,,Neutrals,undefined,Elf,No religion,"375",1732.11,717.2,-11.38,32.17,"4",,,citadel,walls,,,,./0.png
+-36.08,-11.87,"313",Baglialia,,,Neutrals,undefined,Human,No religion,"3094",94,728.97,-11.87,-36.08,"4",,,,walls,plaza,,,./0.png
+35.39,-12.15,"314",Machlondrin,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Astral Elf,The Egyptian Pantheon,"878",1809.39,735.61,-12.15,35.39,"4",,,,,,,,./0.png
+31.11,-13.5,"315",Aethyr,,,Neutrals,undefined,Elf,No religion,"381",1706.66,767.91,-13.5,31.11,"4",,,,,plaza,,,./0.png
+32.1,-14.39,"316",Ollsle,,,Neutrals,undefined,Elf,No religion,"1147",1730.28,789.39,-14.39,32.1,"4",,,,,,,,./0.png
+33.88,-14.87,"317",Elumyterion,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3173",1773.06,800.99,-14.87,33.88,"4",,,,,,,,./0.png
+35.91,-17.41,"318",Filssad,Ceraloraset,Ceraloraset County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"4389",1821.72,861.92,-17.41,35.91,"4",,,citadel,walls,plaza,,,./0.png
+17.69,-17.68,"319",Kauli,,,Neutrals,undefined,Firbolg,No religion,"412",1384.5,868.41,-17.68,17.69,"4",,,,,plaza,,,./0.png
+31.7,-18.55,"320",Aranthleloni,Inerionnor,Inerionnor County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"394",1720.76,889.19,-18.55,31.7,"4",,,citadel,,,,,./0.png
+-0.53,-19.15,"321",Sansaco,,,Neutrals,undefined,Human,No religion,"435",947.2,903.5,-19.15,-0.53,"4",,,citadel,,,,,./0.png
+26.55,-19.21,"322",Dretharase,,,Neutrals,undefined,Elf,No religion,"1521",1597.18,905.09,-19.21,26.55,"4",,,citadel,,,,,./0.png
+-3.94,-20.08,"323",Sgurreleo,,,Neutrals,undefined,Human,No religion,"1980",865.5,926,-20.08,-3.94,"4",,port,citadel,,,,,./0.png
+16.06,-19.85,"324",Kamailau,,,Neutrals,undefined,Firbolg,No religion,"426",1345.44,920.38,-19.85,16.06,"4",,,,,,,,./0.png
+17.97,-19.41,"325",Waionuiau,,,Neutrals,undefined,Firbolg,No religion,"666",1391.22,909.79,-19.41,17.97,"4",,,citadel,,,,,./0.png
+31.2,-19.83,"326",Tlindhe,Ormmarmelfa,Ormmarmelfa Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"491",1708.9,919.87,-19.83,31.2,"4",,,citadel,,,,,./0.png
+15.56,-20.32,"327",Puaau,,,Neutrals,undefined,Firbolg,No religion,"2498",1333.4,931.75,-20.32,15.56,"4",,,,walls,plaza,,,./0.png
+31.54,-20.06,"328",Umeleltheas,Ormmarmelfa,Ormmarmelfa Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2895",1716.87,925.37,-20.06,31.54,"4",,,citadel,,plaza,,,./0.png
+26.37,-20.73,"329",Yuethyr,,,Neutrals,undefined,Elf,No religion,"2330",1592.81,941.54,-20.73,26.37,"4",,,citadel,walls,plaza,,,./0.png
+27.72,-20.57,"330",Himrionfela,Shemliebel,Shemliebel Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Wood),The Egyptian Pantheon,"6220",1625.25,937.63,-20.57,27.72,"4",,,,walls,,temple,,./0.png
+28.71,-21.08,"331",Garalin,Selsa,Selsa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"637",1649,950,-21.08,28.71,"4",,port,,walls,,,,./0.png
+31.15,-22.57,"332",Ailonlurth,Hlyve,Hlyve Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"4658",1707.48,985.68,-22.57,31.15,"4",,,citadel,,,temple,,./0.png
+34.49,-22.51,"333",Tharonzande,Matha,Matha Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1711",1787.78,984.22,-22.51,34.49,"4",,,citadel,walls,,,,./0.png
+28.73,-23.36,"334",Ilmethase,,,Neutrals,undefined,Elf,No religion,"383",1649.61,1004.67,-23.36,28.73,"4",,,citadel,walls,,,,./0.png
+31.17,-23.27,"335",Liquamenora,Hlyve,Hlyve Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1863",1708.04,1002.37,-23.27,31.17,"4",,,,,,,,./0.png
+-27.36,-23.8,"336",Vepartese,Frasia,Frasia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"710",303.27,1015.27,-23.8,-27.36,"4",,,citadel,walls,,,,./0.png
+-3.24,-24.8,"337",Nespo,Amarinia,Amarinia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1005",882.26,1039.19,-24.8,-3.24,"4",,,,,plaza,,,./0.png
+3.69,9.84,"338",Misesseau,,,Neutrals,undefined,Verdan,No religion,"3422",1048.5,207.8,9.84,3.69,"9",,,,,,,,./0.png
+2.7,3.15,"339",Kotarakzar,,,Neutrals,undefined,Goliath,No religion,"430",1024.82,368.46,3.15,2.7,"9",,,,walls,,,,./0.png
+29.37,-3.59,"340",Afranthes,,,Neutrals,undefined,Elf,No religion,"975",1664.84,530.28,-3.59,29.37,"9",,,,,,,,./0.png
+-19.79,-8.35,"341",Vetecorno,,,Neutrals,undefined,Genasi,No religion,"3305",485,644.5,-8.35,-19.79,"9",,port,,walls,plaza,,,./0.png
+-19.67,-9.4,"342",Temicalente,,,Neutrals,undefined,Genasi,No religion,"2396",488.01,669.64,-9.4,-19.67,"9",,,citadel,walls,plaza,,,./0.png
+-3.61,-11,"343",Settivino,Ancignania,Ancignania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"5709",873.46,707.98,-11,-3.61,"9",,,citadel,walls,plaza,temple,,./0.png
+3.39,-13.14,"344",Giumino,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1280",1041.28,759.48,-13.14,3.39,"9",,,,,plaza,,,./0.png
+-4.12,-15.08,"345",Cermia,,,Neutrals,undefined,Human,No religion,"1889",861,805.9,-15.08,-4.12,"9",,,,,,,,./0.png
+0.1,-14.72,"346",Magno,Scandrigno,Scandrigno Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"490",962.41,797.38,-14.72,0.1,"9",,,citadel,,plaza,,,./0.png
+-4.73,-19.71,"347",Montico,,,Neutrals,undefined,Human,No religion,"379",846.51,917.05,-19.71,-4.73,"9",,,citadel,,plaza,,,./0.png
+16.48,-20.58,"348",Hohuko,,,Neutrals,undefined,Firbolg,No religion,"2443",1355.43,937.91,-20.58,16.48,"9",,,citadel,,,,,./0.png
+-32.39,-21.93,"349",Vetri,Picepieti,Picepieti County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"805",182.61,970.38,-21.93,-32.39,"9",,,,,plaza,,,./0.png
+-29.72,-22.27,"350",Veleolano,,,Neutrals,undefined,Human,No religion,"414",246.77,978.37,-22.27,-29.72,"9",,,,,plaza,,,./0.png
+-27.19,-22.97,"351",Gallorica,Frasia,Frasia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2629",307.44,995.34,-22.97,-27.19,"9",,,citadel,walls,,,,./0.png
+4.96,-14.37,"352",Rocquacoli,Pettefredrig,Pettefredrig County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1978",1078.96,788.97,-14.37,4.96,"16",,,citadel,,,,,./0.png
+-36.13,-17.42,"353",Monte,,,Neutrals,undefined,Human,No religion,"1539",92.77,862.05,-17.42,-36.13,"16",,,citadel,,,,,./0.png
+-5.52,-18.82,"354",Acqua,,,Neutrals,undefined,Human,No religion,"493",827.49,895.75,-18.82,-5.52,"16",,,,,,,,./0.png
+-30.6,-21.6,"355",Foncercecor,,,Neutrals,undefined,Human,No religion,"875",225.66,962.38,-21.6,-30.6,"16",,,citadel,,,,,./0.png
+-19.47,-23.25,"356",Capra,Finia,Finia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"5974",492.72,1001.9,-23.25,-19.47,"16",,,,walls,,temple,,./0.png
+-18.59,-23.05,"357",Serrivo,Bormano,Bormano Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"398",513.74,997.26,-23.05,-18.59,"16",,,citadel,,plaza,,,./0.png
+-18.28,-23.76,"358",Celluso,Gecorso,Gecorso County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1582",521.38,1014.19,-23.76,-18.28,"16",,,citadel,,,,,./0.png
+-4.08,-23.66,"359",Suttano,Amarinia,Amarinia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4003",862.08,1011.91,-23.66,-4.08,"16",,,,,plaza,,,./0.png
+-15.96,-24.95,"360",Castignate,Gecorso,Gecorso County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"453",577.03,1042.77,-24.95,-15.96,"16",,,citadel,,plaza,,,./0.png
+23.96,12.55,"361",Onazindee,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"1612",1534.97,142.86,12.55,23.96,"25",,,citadel,,,,,./0.png
+23.21,11.73,"362",Onineleth,,,Neutrals,undefined,Elf,No religion,"2717",1517.09,162.59,11.73,23.21,"25",,,citadel,,,,,./0.png
+19.23,-3.58,"363",Lefkaris,,,Neutrals,undefined,Kender,No religion,"6860",1421.5,530,-3.58,19.23,"25",,port,citadel,walls,,temple,,./0.png
+27.14,-4.38,"364",Sshaunahille,,,Neutrals,undefined,Elf,No religion,"1118",1611.28,549.2,-4.38,27.14,"25",,,,walls,,,,./0.png
+-20.95,-22.59,"365",Labriata,,,Neutrals,undefined,Human,No religion,"421",457.23,986.06,-22.59,-20.95,"25",,,,,,,,./0.png
+-9.98,-23.68,"366",Sperviano,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3898",720.5,1012.36,-23.68,-9.98,"25",,,,walls,plaza,,,./0.png
+20.38,12.32,"367",Retheasha,Edranalon,Edranalon Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Shadar-kai),The Egyptian Pantheon,"381",1449.07,148.37,12.32,20.38,"36",,,citadel,,,,,./0.png
+-6.35,7.16,"368",Orsetnes,,,Neutrals,undefined,Dwarf,No religion,"395",807.64,272.21,7.16,-6.35,"36",,,,,plaza,,,./0.png
+25.63,7.18,"369",Virvi,,,Neutrals,undefined,Owlin,No religion,"3623",1575.22,271.72,7.18,25.63,"36",,,citadel,,plaza,,,./0.png
+19.55,4.7,"370",Kethnor,Drethela,Drethela Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (High),The Egyptian Pantheon,"2605",1429.17,331.3,4.7,19.55,"36",,,,,plaza,,,./0.png
+-12.53,0.72,"371",Bostad,Stamstania,Stamstania County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"390",659.33,426.81,0.72,-12.53,"36",,,citadel,walls,,,,./0.png
+-21.81,-20.68,"372",Kanguit,,,Neutrals,undefined,Halfling,No religion,"1791",436.62,940.27,-20.68,-21.81,"36",,,citadel,walls,,,,./0.png
+-20.93,-21.52,"373",Monsano,,,Neutrals,undefined,Human,No religion,"424",457.72,960.43,-21.52,-20.93,"36",,,,,,,,./0.png
+-10.79,-21.78,"374",Labro,Vetia,Vetia Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2948",701.12,966.68,-21.78,-10.79,"36",,,citadel,,,,,./0.png
+-25.86,-22.44,"375",Marverello,,,Neutrals,undefined,Human,No religion,"1172",339.47,982.57,-22.44,-25.86,"36",,,citadel,,,,,./0.png
+-13.16,-22.69,"376",Cavigna,Sontia,Sontia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2846",644.13,988.64,-22.69,-13.16,"36",,,citadel,walls,plaza,,,./0.png
+-5.45,-23.4,"377",Collo,Marsa,Marsa Earldom,Fonticalia,Fonticalian Empire,Human,Greek Deities,"390",829.1,1005.54,-23.4,-5.45,"36",,,,,,,,./0.png
+-7.24,-24.2,"378",Fonte,Guino,Guino County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"873",786.25,1024.75,-24.2,-7.24,"36",,,,,,,,./0.png
+-6.59,1.98,"379",Raugardal,,,Neutrals,undefined,Dwarf,No religion,"419",801.93,396.38,1.98,-6.59,"49",,,citadel,,plaza,,,./0.png
+-10.39,0.4,"380",Roland,,,Neutrals,undefined,Dwarf,No religion,"3268",710.55,434.36,0.4,-10.39,"49",,,citadel,,plaza,,,./0.png
+-6.31,-0.9,"381",Garnoyrika,,,Neutrals,undefined,Dwarf,No religion,"2677",808.59,465.51,-0.9,-6.31,"49",,,,walls,plaza,,,./0.png
+-9.43,-22.35,"382",Montanosecor,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"391",733.61,980.47,-22.35,-9.43,"49",,,,,plaza,,,./0.png
+-11.03,-0.55,"383",Hoyageid,,,Neutrals,undefined,Dwarf,No religion,"3600",695.17,457.25,-0.55,-11.03,"64",,,citadel,,,,,./0.png
+-11.79,-0.97,"384",Logurholt,,,Neutrals,undefined,Dwarf,No religion,"4928",677,467.25,-0.97,-11.79,"64",,,citadel,walls,,,shanty town,./0.png
+-16.1,-21.58,"385",Esoceleoco,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1697",573.56,962,-21.58,-16.1,"64",,,citadel,,,,,./0.png
+18.37,2.1,"386",Ryarius,Cyveralos,Cyveralos Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Eladrin),The Egyptian Pantheon,"5418",1400.95,393.5,2.1,18.37,"81",,,,walls,plaza,,shanty town,./0.png
+-15.82,-20.86,"387",Micigni,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2541",580.34,944.54,-20.86,-15.82,"81",,,,walls,,,,./0.png
+-11.75,7.5,"388",Tispavarpagy,,,Neutrals,undefined,Gnome,No religion,"413",677.95,263.96,7.5,-11.75,"100",,,citadel,,,,,./0.png
+4.28,5.74,"389",Chergazibi,,,Neutrals,undefined,Goliath,No religion,"1863",1062.84,306.12,5.74,4.28,"100",,,,,plaza,,,./0.png
+-21.8,4.05,"390",Opeid,,,Neutrals,undefined,Dwarf,No religion,"881",436.85,346.92,4.05,-21.8,"100",,,citadel,,,,,./0.png
+-11.73,-2.17,"391",Feldalkes,,,Neutrals,undefined,Dwarf,No religion,"3669",678.58,496.02,-2.17,-11.73,"100",,,,walls,plaza,,,./0.png
+-14.65,-4.27,"392",Gimsker,,,Neutrals,undefined,Dwarf,No religion,"844",608.36,546.44,-4.27,-14.65,"100",,,citadel,,,,,./0.png
+-5.44,-5.07,"393",Rognande,,,Neutrals,undefined,Dwarf,No religion,"935",829.35,565.64,-5.07,-5.44,"100",,,citadel,,,,,./0.png
+9.91,6.85,"394",Drauhel-Didlu,,,Neutrals,undefined,Tiefling,No religion,"403",1197.85,279.49,6.85,9.91,"121",,,citadel,,,,,./0.png
+3.88,3.44,"395",Kilwed,,,Neutrals,undefined,Goliath,No religion,"412",1053.15,361.51,3.44,3.88,"144",,,,,,,,./0.png
+-10.4,-7.94,"396",Gregils,,,Neutrals,undefined,Dwarf,No religion,"7364",710.5,634.5,-7.94,-10.4,"144",,port,,walls,plaza,,,./0.png
+-10.19,-1.2,"397",Solsoyda,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"404",715.43,472.75,-1.2,-10.19,"169",,,,,,,,./0.png
+-21.6,-3.49,"398",Hafjoro,,,Neutrals,undefined,Dwarf,No religion,"3086",441.58,527.67,-3.49,-21.6,"169",,,citadel,walls,plaza,,,./0.png
+-18.89,1.34,"399",Raudarfi,,,Neutrals,undefined,Dwarf,No religion,"4277",506.69,411.84,1.34,-18.89,"225",,,citadel,,plaza,,,./0.png
+-24.07,2.11,"400",Hofjordal,Rogsnesia,Rogsnesia County,Tragbigia,Empire of Tragbigia,Dwarf (Mountain),The Norse Pantheon,"1109",382.29,393.26,2.11,-24.07,"324",,,,,plaza,,,./0.png
+-24.44,-0.94,"401",Ellager,,,Neutrals,undefined,Dwarf,No religion,"904",373.32,466.65,-0.94,-24.44,"324",,,citadel,,,,,./0.png
+-16.37,-1.66,"402",Flageid,Hrafrost,Hrafrost County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"407",567.17,483.82,-1.66,-16.37,"484",,,,,,,,./0.png
+-21.12,2.5,"403",Selgageid,Bifniria,Bifniria County,Tragbigia,Empire of Tragbigia,Dwarf (Mountain),The Norse Pantheon,"420",453.18,383.88,2.5,-21.12,"729",,,citadel,,plaza,,,./0.png
+13.45,16.89,"404",Rrharrvhei,,,Neutrals,undefined,Fairy,No religion,"1015",1282.89,38.63,16.89,13.45,"4",,,,,,,,./0.png
+-26.02,16.47,"405",Ramtimba,,,Neutrals,undefined,Goblin,No religion,"411",335.5,48.7,16.47,-26.02,"4",,,,,,,,./0.png
+22.83,15.59,"406",Reinora,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"574",1507.9,69.76,15.59,22.83,"4",,,,,plaza,,,./0.png
+22.74,14.68,"407",Reshelorelu,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1116",1505.69,91.69,14.68,22.74,"4",,,,,plaza,,,./0.png
+-3.39,13.85,"408",Hoftagast,,,Neutrals,undefined,Dragonborn,No religion,"1081",878.7,111.7,13.85,-3.39,"4",,,citadel,,,,,./0.png
+1.29,14.08,"409",Kansver,,,Neutrals,undefined,Dragonborn,No religion,"432",990.86,106.03,14.08,1.29,"4",,,,,,,,./0.png
+-34.18,13.63,"410",Sandekeszeg,,,Neutrals,undefined,Half-Orc,No religion,"435",139.73,116.98,13.63,-34.18,"4",,,citadel,,,,,./0.png
+-22.79,13.38,"411",Neskar,,,Neutrals,undefined,Bugbear,No religion,"2601",412.99,122.89,13.38,-22.79,"4",,,citadel,walls,,,,./0.png
+-21.43,13.43,"412",Skrododoge,,,Neutrals,undefined,Bugbear,No religion,"615",445.58,121.6,13.43,-21.43,"4",,,citadel,,,,,./0.png
+-1.32,12.43,"413",Hokurdur,,,Neutrals,undefined,Dragonborn,No religion,"591",928.29,145.63,12.43,-1.32,"4",,,citadel,,,,,./0.png
+26.34,12.06,"414",Wlafethera,Imsenatha,Imsenatha County,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"389",1592.09,154.62,12.06,26.34,"4",,,,,,,,./0.png
+26.29,11.68,"415",Mytheas,Jalma,Jalma Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"6271",1590.87,163.8,11.68,26.29,"4",,,citadel,walls,plaza,temple,,./0.png
+-31.24,10.4,"416",Merenyszalu,,,Neutrals,undefined,Half-Orc,No religion,"943",210.34,194.48,10.4,-31.24,"4",,,citadel,,,,,./0.png
+-0.45,10.51,"417",Fallder,,,Neutrals,undefined,Dragonborn,No religion,"431",949.17,191.8,10.51,-0.45,"4",,,citadel,,,,,./0.png
+-7.73,9.06,"418",Bartares,,,Neutrals,undefined,Giff,No religion,"1119",774.5,226.5,9.06,-7.73,"4",,port,citadel,,,,,./0.png
+27.5,9.58,"419",The'asa,,,Neutrals,undefined,Elf,No religion,"6070",1620,214,9.58,27.5,"4",,port,,walls,plaza,temple,,./0.png
+-1.64,8.41,"420",Thorsvik,,,Neutrals,undefined,Dragonborn,No religion,"416",920.7,242.2,8.41,-1.64,"4",,,,,,,,./0.png
+-28.79,6.91,"421",Totono,,,Neutrals,undefined,Loxodon,No religion,"1893",269.05,278.25,6.91,-28.79,"4",,,citadel,,,,,./0.png
+28.68,1.98,"422",Thenoluguall,,,Neutrals,undefined,Elf,No religion,"408",1648.21,396.4,1.98,28.68,"4",,,citadel,,plaza,,,./0.png
+27.74,0.77,"423",Tlaulumaren,,,Neutrals,undefined,Elf,No religion,"392",1625.83,425.51,0.77,27.74,"4",,,,,,,,./0.png
+27.53,-0.44,"424",Selfarion,,,Neutrals,undefined,Elf,No religion,"2181",1620.74,454.61,-0.44,27.53,"4",,,citadel,,,,,./0.png
+29.89,-2.84,"425",Rethin,,,Neutrals,undefined,Elf,No religion,"4129",1677.31,512.2,-2.84,29.89,"4",,,,walls,plaza,,,./0.png
+5.86,-7.83,"426",Annenoy,,,Neutrals,undefined,Simic,No religion,"2321",1100.74,631.95,-7.83,5.86,"4",,,citadel,walls,,,,./0.png
+30.49,-9.58,"427",Lyranneas,,,Neutrals,undefined,Elf,No religion,"3972",1691.81,673.88,-9.58,30.49,"4",,,citadel,,plaza,,,./0.png
+31.2,-9.26,"428",Hlimyhenase,,,Neutrals,undefined,Elf,No religion,"478",1708.72,666.15,-9.26,31.2,"4",,,,,plaza,,,./0.png
+-35.28,-9.81,"429",Sutranolilia,Citritelia,Citritelia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4480",113.32,679.34,-9.81,-35.28,"4",,,,,plaza,,,./0.png
+32.93,-12.32,"430",Tlaunynat,,,Neutrals,undefined,Elf,No religion,"707",1750.31,739.58,-12.32,32.93,"4",,,,,,,,./0.png
+31.22,-16.2,"431",Oralos,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2899",1709.36,832.81,-16.2,31.22,"4",,,,,,,,./0.png
+28.24,-16.7,"432",Ieleth,,,Neutrals,undefined,Elf,No religion,"399",1637.7,844.76,-16.7,28.24,"4",,,citadel,,plaza,,,./0.png
+-37.15,-17.21,"433",Tollenazag,,,Neutrals,undefined,Human,No religion,"3193",68.5,857,-17.21,-37.15,"4",,,,walls,,,,./0.png
+-1.26,-17.14,"434",Nescolomarga,,,Neutrals,undefined,Human,No religion,"3688",929.87,855.47,-17.14,-1.26,"4",,,,,plaza,,,./0.png
+31.22,-17.77,"435",Uguall,Ormmarmelfa,Ormmarmelfa Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"396",1709.26,870.44,-17.77,31.22,"4",,,,,plaza,,,./0.png
+37.19,-17.8,"436",Beltaleandor,Sarinoramel,Sarinoramel Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"476",1852.46,871.29,-17.8,37.19,"4",,,citadel,,,,,./0.png
+35.79,-18.18,"437",Mithnor,Iquasenat,Iquasenat Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3201",1819.03,880.42,-18.18,35.79,"4",,,citadel,walls,plaza,,,./0.png
+-37.12,-18.91,"438",Fiupinovano,,,Neutrals,undefined,Human,No religion,"416",69.06,897.8,-18.91,-37.12,"4",,,citadel,,plaza,,,./0.png
+-35.51,-19.27,"439",Selcano,,,Neutrals,undefined,Human,No religion,"1082",107.8,906.6,-19.27,-35.51,"4",,,,,,,,./0.png
+25.67,-18.78,"440",Iarien,,,Neutrals,undefined,Elf,No religion,"3842",1576.05,894.68,-18.78,25.67,"4",,,,walls,plaza,,,./0.png
+34.16,-18.76,"441",Nythentheas,Efranthenthe,Efranthenthe County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3807",1779.77,894.25,-18.76,34.16,"4",,,,walls,plaza,,,./0.png
+37.13,-19.55,"442",Ollmrion,Iquasenat,Iquasenat Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"469",1851.21,913.31,-19.55,37.13,"4",,,citadel,,,,,./0.png
+16.67,-21.33,"443",Puahua,,,Neutrals,undefined,Firbolg,No religion,"744",1359.99,955.8,-21.33,16.67,"4",,,,walls,,,,./0.png
+35.57,-21.71,"444",Elvelalean,Eseras,Eseras County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2894",1813.57,965.03,-21.71,35.57,"4",,,citadel,walls,plaza,,,./0.png
+-29.43,-22.62,"445",Baglia,,,Neutrals,undefined,Human,No religion,"3209",253.67,986.94,-22.62,-29.43,"4",,,citadel,walls,plaza,,,./0.png
+29.74,-22.47,"446",Keathilse,Hlyve,Hlyve Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1364",1673.74,983.24,-22.47,29.74,"4",,,,,,,,./0.png
+-32.45,-23.12,"447",Poterenina,Tarvia,Tarvia Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"8841",181.17,998.82,-23.12,-32.45,"4",,,citadel,walls,plaza,temple,shanty town,./0.png
+32.0180724542515,-23.4761600424747,"448",Hesathrion,Wlarith,Wlarith Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3803",1728.5,1007.5,-23.48,32.02,"4",,port,,,plaza,,,./0.png
+7.91,-24.53,"449",Talpaviche,,,Neutrals,undefined,Leonin,No religion,"481",1149.87,1032.83,-24.53,7.91,"4",,,citadel,,,,,./0.png
+21.48,14.42,"450",Thelionneas,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"404",1475.59,97.86,14.42,21.48,"9",,,,,plaza,,,./0.png
+24.37,12.96,"451",Ynatheas,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Mark of Shadow),The Egyptian Pantheon,"475",1544.97,132.96,12.96,24.37,"9",,,,,,,,./0.png
+30.65,-1.11,"452",Enalunasena,,,Neutrals,undefined,Elf,No religion,"2349",1695.58,470.75,-1.11,30.65,"9",,,citadel,walls,,,,./0.png
+21.77,-3.85,"453",Yukmunho,,,Neutrals,undefined,Thri-kreen,No religion,"7114",1482.5,536.5,-3.85,21.77,"9",,port,citadel,walls,plaza,temple,,./0.png
+-17.7,-8.54,"454",Belnuo,,,Neutrals,undefined,Genasi,No religion,"2241",535.31,648.84,-8.54,-17.7,"9",,,citadel,walls,plaza,,,./0.png
+-35.5,-10.84,"455",Seza,,,Neutrals,undefined,Human,No religion,"433",108.02,704.16,-10.84,-35.5,"9",,,,,,,,./0.png
+-25.28,-10.75,"456",Jepsava,,,Neutrals,undefined,Haregon,No religion,"3123",353.21,701.98,-10.75,-25.28,"9",,,,walls,,,,./0.png
+-3.51,-14.77,"457",Allalicema,,,Neutrals,undefined,Human,No religion,"440",875.83,798.46,-14.77,-3.51,"9",,,,,,,,./0.png
+-3.05,-15.24,"458",Forma,,,Neutrals,undefined,Human,No religion,"476",886.91,809.76,-15.24,-3.05,"9",,,citadel,,,,,./0.png
+0.81,-15.77,"459",Valletacivig,,,Neutrals,undefined,Human,No religion,"422",979.5,822.55,-15.77,0.81,"9",,,citadel,walls,,,,./0.png
+1.55,-16.21,"460",Vigliamigni,Vallararo,Vallararo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2668",997.13,832.95,-16.21,1.55,"9",,,citadel,walls,,,,./0.png
+4.43,-23.89,"461",Mabil,,,Neutrals,undefined,Leonin,No religion,"2704",1066.37,1017.3,-23.89,4.43,"9",,,citadel,,,,,./0.png
+27.16,0.92,"462",Machlond,,,Neutrals,undefined,Elf,No religion,"2623",1611.85,421.87,0.92,27.16,"16",,,citadel,,plaza,,,./0.png
+26.77,-2.71,"463",Ollsmel,,,Neutrals,undefined,Elf,No religion,"2595",1602.46,508.95,-2.71,26.77,"16",,,citadel,,,,,./0.png
+-30.27,-15.06,"464",Selvivicici,,,Neutrals,undefined,Human,No religion,"1841",233.5,805.5,-15.06,-30.27,"16",,port,,,,,,./0.png
+-20.6,-23.92,"465",Farva,Vicia,Vicia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2971",465.5,1018,-23.92,-20.6,"16",,port,,walls,plaza,,,./0.png
+21.39,16.64,"466",Yuegheiral,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1730",1473.36,44.75,16.64,21.39,"25",,,citadel,,plaza,,,./0.png
+0.08,-17.03,"467",Piante,,,Neutrals,undefined,Human,No religion,"2500",961.95,852.79,-17.03,0.08,"25",,,,,,,,./0.png
+-26.44,-22.84,"468",Tervenazano,,,Neutrals,undefined,Human,No religion,"3428",325.34,992.13,-22.84,-26.44,"25",,,,,,,,./0.png
+-19.77,-22.42,"469",Colto,Finia,Finia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"436",485.48,982.14,-22.42,-19.77,"25",,,citadel,,plaza,,,./0.png
+-11.37,-22.82,"470",Castellete,Vetia,Vetia Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2362",687.04,991.68,-22.82,-11.37,"25",,,,,plaza,,,./0.png
+-13.47,-23.72,"471",Valle,Ventia,Ventia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"397",636.72,1013.36,-23.72,-13.47,"25",,,,,,,,./0.png
+-21.57,-24.45,"472",Minazenaza,Rociania,Rociania County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2940",442.27,1030.89,-24.45,-21.57,"25",,,,walls,plaza,,,./0.png
+-12.92,-24.67,"473",Belleno,Ventia,Ventia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"633",650,1036,-24.67,-12.92,"25",,port,,,,,,./0.png
+2.69,-1.56,"474",Arnorole,,,Neutrals,undefined,Aasimar,No religion,"683",1024.5,481.5,-1.56,2.69,"36",,port,citadel,walls,,,,./0.png
+18.91,-4.55,"475",Heron,,,Neutrals,undefined,Kender,No religion,"440",1413.93,553.26,-4.55,18.91,"36",,,citadel,walls,,,,./0.png
+26.84,-6.3,"476",Omalyananat,,,Neutrals,undefined,Elf,No religion,"3729",1604.25,595.17,-6.3,26.84,"36",,,citadel,,plaza,,,./0.png
+-23.72,-21.36,"477",Inazaglia,,,Neutrals,undefined,Human,No religion,"1413",390.69,956.6,-21.36,-23.72,"36",,,citadel,,,,,./0.png
+-6.62,-21.91,"478",Rontania,Vinaria,Vinaria County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4976",801.22,969.81,-21.91,-6.62,"36",,,citadel,walls,plaza,temple,,./0.png
+-6.13,-22.57,"479",Pescalatro,Vinaria,Vinaria County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"415",812.98,985.59,-22.57,-6.13,"36",,,,,,,,./0.png
+-6.51,-23.81,"480",Roccatano,Guino,Guino County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"409",803.86,1015.5,-23.81,-6.51,"36",,,citadel,,,,,./0.png
+24.31,8.04,"481",Koljanpaaki,,,Neutrals,undefined,Owlin,No religion,"749",1543.52,250.93,8.04,24.31,"49",,,citadel,,,,,./0.png
+-16.08,3.94,"482",Bahagzigzig,Naragz,Naragz County,Tragbigia,Empire of Tragbigia,Dwarf (Hill),The Norse Pantheon,"1292",574.08,349.46,3.94,-16.08,"49",,,citadel,walls,,,,./0.png
+-14.24,-1.25,"483",Helvalen,Hrafrost,Hrafrost County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"545",618.2,474.1,-1.25,-14.24,"49",,,,,plaza,,,./0.png
+-6.27,-4.39,"484",Voland,,,Neutrals,undefined,Dwarf,No religion,"2131",809.63,549.35,-4.39,-6.27,"49",,,citadel,,,,,./0.png
+-3.59,-5.37,"485",Horopennes,,,Neutrals,undefined,Dwarf,No religion,"2057",873.81,572.93,-5.37,-3.59,"49",,,citadel,,,,,./0.png
+16.1,-9.65,"486",Yumirani,,,Neutrals,undefined,Aarakocra,No religion,"973",1346.3,675.7,-9.65,16.1,"49",,,citadel,,plaza,,,./0.png
+-5.46,7.48,"487",Vasvogloy,,,Neutrals,undefined,Dwarf,No religion,"2676",829.02,264.48,7.48,-5.46,"64",,,,walls,plaza,,,./0.png
+-24.67,6.61,"488",Hvangaro,,,Neutrals,undefined,Dwarf,No religion,"1971",367.9,285.34,6.61,-24.67,"64",,,citadel,,,,,./0.png
+-13.49,6.64,"489",Soltha,,,Neutrals,undefined,Gnome,No religion,"1860",636.24,284.73,6.64,-13.49,"64",,,,,,,,./0.png
+23.84,2.02,"490",Earionbelha,,,Neutrals,undefined,Elf,No religion,"3513",1532.14,395.5,2.02,23.84,"64",,,,,plaza,,,./0.png
+22.36,1.02,"491",Luivalzhor,Neanalonele,Neanalonele Shire,Dranzandyndor,Empire of Dranzandyndor,Half-Elf,The Egyptian Pantheon,"434",1496.61,419.6,1.02,22.36,"64",,,citadel,,,,,./0.png
+2.93,-2.88,"492",Patta,,,Neutrals,undefined,Aasimar,No religion,"1884",1030.22,513.1,-2.88,2.93,"64",,,,walls,plaza,,,./0.png
+25.53,-7.34,"493",Umnes,,,Neutrals,undefined,Elf,No religion,"1973",1572.65,620.09,-7.34,25.53,"64",,,citadel,,,,,./0.png
+-32.74,-12.66,"494",Capramana,,,Neutrals,undefined,Human,No religion,"1063",174.14,747.87,-12.66,-32.74,"64",,,,,,,,./0.png
+-15.15,-21.18,"495",Cancigliado,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"417",596.47,952.44,-21.18,-15.15,"64",,,,,plaza,,,./0.png
+-13.08,-21.18,"496",Castano,Lonzio,Lonzio Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3370",646.04,952.43,-21.18,-13.08,"64",,,citadel,walls,plaza,,,./0.png
+-15.76,-22.06,"497",Roccanonema,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"421",581.76,973.53,-22.06,-15.76,"64",,,,,,,,./0.png
+-13.38,-22.13,"498",Ponto,Lonzio,Lonzio Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1810",638.79,975.03,-22.13,-13.38,"64",,,citadel,,,,,./0.png
+-21.93,6.56,"499",Aududavodo,,,Neutrals,undefined,Dwarf,No religion,"2128",433.59,286.62,6.56,-21.93,"81",,,citadel,,,,,./0.png
+3.43,5.4,"500",Gurkudzah,,,Neutrals,undefined,Goliath,No religion,"1054",1042.36,314.52,5.4,3.43,"81",,,citadel,,,,,./0.png
+4.01,-12.35,"501",Nerellumie,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2848",1056.34,740.47,-12.35,4.01,"81",,,,,plaza,,,./0.png
+-9.28,-19.81,"502",Licelfe,Ciampo,Ciampo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3448",737.18,919.44,-19.81,-9.28,"81",,,citadel,walls,,,,./0.png
+-6.53,0.57,"503",Tjotnesrey,,,Neutrals,undefined,Dwarf,No religion,"1553",803.17,430.33,0.57,-6.53,"100",,,,,,,,./0.png
+20.34,1.03,"504",Kararien,Cyveralos,Cyveralos Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Eladrin),The Egyptian Pantheon,"418",1448.06,419.17,1.03,20.34,"100",,,,,,,,./0.png
+-24.24,-1.92,"505",Sannesda,,,Neutrals,undefined,Dwarf,No religion,"1978",378.21,490.03,-1.92,-24.24,"100",,,citadel,walls,,,,./0.png
+4.5,-2.54,"506",Sanelle,,,Neutrals,undefined,Aasimar,No religion,"1258",1068,505,-2.54,4.5,"100",,port,citadel,,,,,./0.png
+10.49,8.97,"507",Wetheas,,,Neutrals,undefined,Tiefling,No religion,"1164",1211.81,228.68,8.97,10.49,"121",,,,,,,,./0.png
+-22.91,7.81,"508",Skrofors,,,Neutrals,undefined,Dwarf,No religion,"428",410.18,256.48,7.81,-22.91,"121",,,,,,,,./0.png
+9.87,5.83,"509",Gnaarlariben,,,Neutrals,undefined,Tiefling,No religion,"5678",1196.81,304.05,5.83,9.87,"121",,,citadel,walls,plaza,temple,,./0.png
+-14.97,3.15,"510",Kharukthiz,Naragz,Naragz County,Tragbigia,Empire of Tragbigia,Dwarf (Hill),The Norse Pantheon,"708",600.68,368.36,3.15,-14.97,"121",,,citadel,,,,,./0.png
+-5.49,-12.15,"511",Mulaisha,,,Neutrals,undefined,Lizardfolk,No religion,"1065",828.26,735.55,-12.15,-5.49,"121",,,citadel,,,,,./0.png
+-17.64,-5.15,"512",Lenesnes,,,Neutrals,undefined,Dwarf,No religion,"2433",536.62,567.48,-5.15,-17.64,"144",,,,walls,plaza,,,./0.png
+-22.27,-1.14,"513",Senduoset,,,Neutrals,undefined,Dwarf,No religion,"440",425.46,471.44,-1.14,-22.27,"169",,,,walls,,,,./0.png
+-5.93,-3.14,"514",Skaber,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"1945",817.66,519.39,-3.14,-5.93,"169",,,,,,,,./0.png
+-6.69,-3.8,"515",Trellanes,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"429",799.51,535.15,-3.8,-6.69,"169",,,,walls,,,,./0.png
+-25.25,0.85,"516",Hvolsker,,,Neutrals,undefined,Dwarf,No religion,"425",353.95,423.59,0.85,-25.25,"196",,,citadel,,,,,./0.png
+-9.12,-0.66,"517",Oroker,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"2100",741.22,459.73,-0.66,-9.12,"196",,,,,,,,./0.png
+-21.26,-1.45,"518",Gjevelsos,,,Neutrals,undefined,Dwarf,No religion,"422",449.76,478.73,-1.45,-21.26,"196",,,citadel,walls,,,,./0.png
+-8.49,-3.28,"519",Olsmar,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"423",756.12,522.79,-3.28,-8.49,"196",,,citadel,walls,,,,./0.png
+14.73,-10.02,"520",Oami,,,Neutrals,undefined,Aarakocra,No religion,"2002",1313.63,684.46,-10.02,14.73,"225",,,,walls,,,,./0.png
+-20.14,3.34,"521",Skjervika,Bifniria,Bifniria County,Tragbigia,Empire of Tragbigia,Dwarf (Mountain),The Norse Pantheon,"2121",476.73,363.95,3.34,-20.14,"289",,,,,plaza,,,./0.png
+-12.7,2.28,"522",Vardurhofn,Stamstania,Stamstania County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"2606",655.19,389.26,2.28,-12.7,"289",,,,walls,,,,./0.png
+-8.08,3.67,"523",Hodoyrar,Hofosen,Hofosen Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"3310",766.01,355.94,3.67,-8.08,"361",,,,walls,,,,./0.png
+-13.4,-3.19,"524",Stamstan,Nesbak,Nesbak Seneschalty,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"3549",638.4,520.52,-3.19,-13.4,"676",,,,,plaza,,,./0.png
+23.17,16.96,"525",Nyharen,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2934",1516.19,37.04,16.96,23.17,"4",,,citadel,,plaza,,,./0.png
+23.31,16.65,"526",Synead,Eerinlondra,Eerinlondra Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1906",1519.4,44.4,16.65,23.31,"4",,,citadel,,,,,./0.png
+-29.83,16.62,"527",Sanadela,,,Neutrals,undefined,Goblin,No religion,"4581",243.98,45.18,16.62,-29.83,"4",,,,,plaza,,,./0.png
+-27.66,16.22,"528",Mabe,,,Neutrals,undefined,Goblin,No religion,"1244",296.17,54.74,16.22,-27.66,"4",,,,,plaza,,,./0.png
+-24.62,16.41,"529",Timtimpa,,,Neutrals,undefined,Goblin,No religion,"832",369.23,50.06,16.41,-24.62,"4",,,citadel,,,,,./0.png
+11.2,15.83,"530",Kamath,,,Neutrals,undefined,Fairy,No religion,"429",1228.82,64.12,15.83,11.2,"4",,,citadel,walls,,,,./0.png
+-27.44,15.26,"531",Atab,,,Neutrals,undefined,Goblin,No religion,"3386",301.52,77.69,15.26,-27.44,"4",,,citadel,,,,,./0.png
+-2.35,15.25,"532",Ogstad,,,Neutrals,undefined,Dragonborn,No religion,"8370",903.51,77.91,15.25,-2.35,"4",,,,walls,,temple,,./0.png
+5.19,15.42,"533",Bazirah,,,Neutrals,undefined,Yuan-ti,No religion,"647",1084.5,74,15.42,5.19,"4",,port,citadel,,,,,./0.png
+-33.16,14.47,"534",Szeglodrod,,,Neutrals,undefined,Half-Orc,No religion,"2610",164.05,96.84,14.47,-33.16,"4",,,,walls,,,,./0.png
+-25.99,14.44,"535",Lintinenai,,,Neutrals,undefined,Hadozee,No religion,"2937",336.19,97.53,14.44,-25.99,"4",,,citadel,,plaza,,,./0.png
+-5.44,14.8,"536",Grytbo,,,Neutrals,undefined,Dragonborn,No religion,"453",829.51,88.89,14.8,-5.44,"4",,,citadel,,plaza,,,./0.png
+24.08,14.92,"537",Nandee,Kafethond,Kafethond Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Drow),The Egyptian Pantheon,"637",1538,86,14.92,24.08,"4",,port,,,,,,./0.png
+4.67,13.88,"538",Buhar,,,Neutrals,undefined,Yuan-ti,No religion,"3900",1072.02,110.9,13.88,4.67,"4",,,citadel,walls,,,,./0.png
+6.67,14.22,"539",Risajan,,,Neutrals,undefined,Yuan-ti,No religion,"1792",1120.09,102.78,14.22,6.67,"4",,,,,,,,./0.png
+-29.42,13.63,"540",Mindspokbari,,,Neutrals,undefined,Half-Orc,No religion,"1345",253.84,116.86,13.63,-29.42,"4",,,,walls,plaza,,,./0.png
+-27.24,13.19,"541",Hvamsey,,,Neutrals,undefined,Hobgoblin,No religion,"2474",306.32,127.47,13.19,-27.24,"4",,,,walls,plaza,,,./0.png
+-31.52,13.01,"542",Martes,,,Neutrals,undefined,Half-Orc,No religion,"423",203.58,131.8,13.01,-31.52,"4",,,citadel,,,,,./0.png
+-27.01,12.82,"543",Greloyrika,,,Neutrals,undefined,Hobgoblin,No religion,"6201",311.79,136.3,12.82,-27.01,"4",,,citadel,walls,plaza,,,./0.png
+0.77,12.75,"544",Austing,,,Neutrals,undefined,Dragonborn,No religion,"1187",978.37,137.95,12.75,0.77,"4",,,citadel,,plaza,,,./0.png
+2.77,12.63,"545",Braudir,,,Neutrals,undefined,Dragonborn,No religion,"4949",1026.5,141,12.63,2.77,"4",,port,,walls,,,shanty town,./0.png
+-17.37,11.52,"546",Amiara,,,Neutrals,undefined,Minotaur,No religion,"3025",543.02,167.45,11.52,-17.37,"4",,,,,,,,./0.png
+-30.27,9.67,"547",Ocsimondor,,,Neutrals,undefined,Orc,No religion,"879",233.43,211.9,9.67,-30.27,"4",,,citadel,,plaza,,,./0.png
+26.86,9.65,"548",Enthmerarith,,,Neutrals,undefined,Elf,No religion,"1796",1604.68,212.52,9.65,26.86,"4",,,citadel,walls,,,,./0.png
+-0.31,8.47,"549",Onstad,,,Neutrals,undefined,Dragonborn,No religion,"2966",952.52,240.75,8.47,-0.31,"4",,,citadel,walls,plaza,,,./0.png
+30.01,5.95,"550",Lelvelethlas,,,Neutrals,undefined,Elf,No religion,"1576",1680.3,301.1,5.95,30.01,"4",,,citadel,,,,,./0.png
+1.5,2.45,"551",Senilwenntyr,,,Neutrals,undefined,Triton,No religion,"1422",996.09,385.17,2.45,1.5,"4",,,citadel,,,,,./0.png
+29.53,-0.26,"552",Ino'an,,,Neutrals,undefined,Elf,No religion,"3234",1668.78,450.22,-0.26,29.53,"4",,,,walls,plaza,,,./0.png
+32.24,-0.97,"553",Yerius,,,Neutrals,undefined,Elf,No religion,"2229",1733.66,467.36,-0.97,32.24,"4",,,,,,,,./0.png
+32.97,-1.68,"554",Therius,,,Neutrals,undefined,Elf,No religion,"4371",1751.2,484.21,-1.68,32.97,"4",,,,walls,plaza,,,./0.png
+3.92,-2.26,"555",Vallo,,,Neutrals,undefined,Aasimar,No religion,"523",1054.15,498.16,-2.26,3.92,"4",,,citadel,,plaza,,,./0.png
+-38.08,-6.01,"556",Fontara,Arronegio,Arronegio County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3297",46.08,588.14,-6.01,-38.08,"4",,,citadel,,plaza,,,./0.png
+-37.27,-5.74,"557",Menta,Arronegio,Arronegio County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"422",65.4,581.82,-5.74,-37.27,"4",,,citadel,,,,,./0.png
+-36.2,-6.66,"558",Frastiglia,Arronegio,Arronegio County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3160",91.26,603.88,-6.66,-36.2,"4",,,,walls,plaza,,,./0.png
+11.1,-10.19,"559",Ondorshig,,,Neutrals,undefined,Gith,No religion,"426",1226.33,688.66,-10.19,11.1,"4",,,,,,,,./0.png
+-38.75,-14.82,"560",Gorlondi,,,Neutrals,undefined,Human,No religion,"2726",29.91,799.67,-14.82,-38.75,"4",,,citadel,walls,,,,./0.png
+2.77,-14.67,"561",Arvaduca,Serno,Serno Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3577",1026.41,796.06,-14.67,2.77,"4",,,,,plaza,,,./0.png
+34.48,-15.56,"562",Reirian,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3956",1787.41,817.42,-15.56,34.48,"4",,,citadel,walls,plaza,,,./0.png
+35.63,-15.17,"563",Wasrion,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2265",1815.16,807.96,-15.17,35.63,"4",,,,,,,,./0.png
+32.98,-15.9,"564",Ellebelvene,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"943",1751.61,825.6,-15.9,32.98,"4",,,,,,,,./0.png
+29.34,-16.62,"565",Hlynathyrlon,,,Neutrals,undefined,Elf,No religion,"2300",1664.07,842.92,-16.62,29.34,"4",,,citadel,,,,,./0.png
+33.62,-17.14,"566",Ulsmel,Efranthenthe,Efranthenthe County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1119",1766.96,855.37,-17.14,33.62,"4",,,,,,,,./0.png
+-3.4,-18.35,"567",Zasano,,,Neutrals,undefined,Human,No religion,"782",878.5,884.5,-18.35,-3.4,"4",,port,citadel,,,,,./0.png
+-1.42,-18.34,"568",Vallelavio,,,Neutrals,undefined,Human,No religion,"429",925.92,884.14,-18.34,-1.42,"4",,,citadel,,,,,./0.png
+18.26,-18.46,"569",Muohuehu,,,Neutrals,undefined,Firbolg,No religion,"3219",1398.22,887.12,-18.46,18.26,"4",,,citadel,walls,plaza,,,./0.png
+37.13,-18.7,"570",Ulilleladire,Sarinoramel,Sarinoramel Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"4039",1851.04,892.8,-18.7,37.13,"4",,,,walls,plaza,,,./0.png
+22.49,-19.75,"571",Tawen,,,Neutrals,undefined,Tabaxi,No religion,"1132",1499.85,917.93,-19.75,22.49,"4",,,,,,,,./0.png
+24.06,-19.69,"572",Skhinenib,,,Neutrals,undefined,Tabaxi,No religion,"454",1537.38,916.68,-19.69,24.06,"4",,,citadel,,plaza,,,./0.png
+32.21,-20.16,"573",Srandemar,Nathele,Nathele Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"413",1733.02,927.78,-20.16,32.21,"4",,,citadel,,,,,./0.png
+15.94,-21,"574",Kouiu,,,Neutrals,undefined,Firbolg,No religion,"2928",1342.54,947.95,-21,15.94,"4",,,citadel,walls,,,,./0.png
+3.53,-24.16,"575",Shasan,,,Neutrals,undefined,Leonin,No religion,"2769",1044.8,1023.9,-24.16,3.53,"4",,,,,plaza,,,./0.png
+5.78,-24.4,"576",Hajiyeh,,,Neutrals,undefined,Leonin,No religion,"1094",1098.63,1029.67,-24.4,5.78,"4",,,,,,,,./0.png
+-22.52,-25.33,"577",Condasaroco,Rociania,Rociania County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1501",419.5,1052,-25.33,-22.52,"4",,port,,,plaza,,,./0.png
+29.26,-3.04,"578",Unoneri,,,Neutrals,undefined,Elf,No religion,"3345",1662.35,516.94,-3.04,29.26,"9",,,citadel,walls,plaza,,,./0.png
+-35.89,-9.79,"579",Montanone,Citritelia,Citritelia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"466",98.53,678.94,-9.79,-35.89,"9",,,citadel,,plaza,,,./0.png
+-21.85,-9.87,"580",Verurum,,,Neutrals,undefined,Centaur,No religion,"413",435.68,680.79,-9.87,-21.85,"9",,,,,,,,./0.png
+2.66,-11.11,"581",Armiano,Fasavigliaga,Fasavigliaga County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1765",1023.78,710.72,-11.11,2.66,"9",,,citadel,,,,,./0.png
+-2.16,-14.08,"582",Lania,Scandrigno,Scandrigno Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"528",908.22,781.99,-14.08,-2.16,"9",,,,,,,,./0.png
+1.27,-14.83,"583",Broccospe,Vallararo,Vallararo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"410",990.38,799.9,-14.83,1.27,"9",,,,,,,,./0.png
+2.1,-14.88,"584",Piante,Vallararo,Vallararo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3161",1010.35,801.23,-14.88,2.1,"9",,,,,plaza,,,./0.png
+-23.28,-24.52,"585",Vilenocie,Belalentia,Belalentia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1772",401.32,1032.6,-24.52,-23.28,"9",,,,,,,,./0.png
+27.57,-3.3,"586",Mithmelhona,,,Neutrals,undefined,Elf,No religion,"488",1621.61,523.27,-3.3,27.57,"16",,,,,plaza,,,./0.png
+-36.02,-16.54,"587",Canto,,,Neutrals,undefined,Human,No religion,"1215",95.47,840.85,-16.54,-36.02,"16",,,citadel,,,,,./0.png
+26.74,7.79,"588",Loijarvo,,,Neutrals,undefined,Owlin,No religion,"2906",1601.73,257.11,7.79,26.74,"25",,,citadel,,plaza,,,./0.png
+-35.76,-6.48,"589",Citronesata,Arronegio,Arronegio County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1359",101.64,599.45,-6.48,-35.76,"25",,,citadel,,,,,./0.png
+29.13,-7.72,"590",Limyuernora,,,Neutrals,undefined,Elf,No religion,"6233",1659.13,629.4,-7.72,29.13,"25",,,,walls,plaza,temple,,./0.png
+-34.49,-12.15,"591",Conzio,,,Neutrals,undefined,Human,No religion,"1683",132.25,735.55,-12.15,-34.49,"25",,,citadel,,,,,./0.png
+-10.66,-23.23,"592",Capri,Fiugliamatri,Fiugliamatri County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3187",704.1,1001.56,-23.23,-10.66,"25",,,,,plaza,,,./0.png
+-5.12,-23.83,"593",Menta,Amarinia,Amarinia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1793",837.03,1015.92,-23.83,-5.12,"25",,,citadel,,,,,./0.png
+-13.1,-24.81,"594",Montevigino,Ventia,Ventia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2397",645.5,1039.5,-24.81,-13.1,"25",,port,,,plaza,,,./0.png
+20.47,10.4,"595",Ryanynfenya,Edranalon,Edranalon Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"3521",1451.29,194.4,10.4,20.47,"36",,,,walls,plaza,,,./0.png
+24.32,6.88,"596",Maula,,,Neutrals,undefined,Owlin,No religion,"417",1543.77,278.93,6.88,24.32,"36",,,,,,,,./0.png
+26.12,6.28,"597",Analonenoni,,,Neutrals,undefined,Elf,No religion,"421",1586.91,293.34,6.28,26.12,"36",,,,,plaza,,,./0.png
+24.36,5.14,"598",Thelharion,,,Neutrals,undefined,Elf,No religion,"1036",1544.54,320.57,5.14,24.36,"36",,,,,,,,./0.png
+19.2,3.94,"599",Nythyr,Aymlunola,Aymlunola Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (High),The Egyptian Pantheon,"3374",1420.87,349.37,3.94,19.2,"36",,,citadel,walls,plaza,,,./0.png
+25.9,3.61,"600",Mathyrwin,,,Neutrals,undefined,Elf,No religion,"817",1581.52,357.44,3.61,25.9,"36",,,citadel,,,,,./0.png
+2.76,-2.13,"601",Servia,,,Neutrals,undefined,Aasimar,No religion,"572",1026.2,495.04,-2.13,2.76,"36",,,,,,,,./0.png
+20.42,-3.16,"602",Kwaipingmun,,,Neutrals,undefined,Thri-kreen,No religion,"528",1450.03,519.83,-3.16,20.42,"36",,,citadel,,plaza,,,./0.png
+28.63,-4.17,"603",Machrionnor,,,Neutrals,undefined,Elf,No religion,"2728",1647,544.05,-4.17,28.63,"36",,,,,,,,./0.png
+4.49,-5.73,"604",Kirk,,,Neutrals,undefined,Satyr,No religion,"451",1067.84,581.41,-5.73,4.49,"36",,,,,,,,./0.png
+-20.27,-20.85,"605",Rocca,,,Neutrals,undefined,Human,No religion,"1279",473.47,944.36,-20.85,-20.27,"36",,,citadel,,,,,./0.png
+-18.59,-21.78,"606",Gallabi,Finia,Finia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"444",513.92,966.75,-21.78,-18.59,"36",,,,,,,,./0.png
+-12.21,-21.85,"607",Satiteltone,Vetia,Vetia Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3255",667,968.52,-21.85,-12.21,"36",,,,walls,plaza,,,./0.png
+-3.78,-6.36,"608",Elland,,,Neutrals,undefined,Dwarf,No religion,"1961",869.18,596.54,-6.36,-3.78,"49",,,citadel,,,,,./0.png
+-16.98,-3.02,"609",Alfjor,Hrafrost,Hrafrost County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"2383",552.52,516.41,-3.02,-16.98,"64",,,citadel,walls,plaza,,,./0.png
+-30.51,-13.1,"610",Marvanosile,,,Neutrals,undefined,Human,No religion,"2644",227.75,758.45,-13.1,-30.51,"64",,,,walls,plaza,,,./0.png
+-15.53,-21.42,"611",Velle,Antritovilfa,Antritovilfa County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4207",587.18,958.17,-21.42,-15.53,"64",,,,walls,plaza,,,./0.png
+-8.51,-21.34,"612",Guico,Fontia,Fontia Earldom,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2956",755.74,956.18,-21.34,-8.51,"64",,,citadel,,,,,./0.png
+-9.95,-21.96,"613",Pitomarma,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1445",721.21,970.98,-21.96,-9.95,"64",,,citadel,,,,,./0.png
+-17.25,-22.66,"614",Colvie,Gecorso,Gecorso County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"5692",545.88,987.91,-22.66,-17.25,"64",,,citadel,walls,,temple,shanty town,./0.png
+-9.15,-20.61,"615",Fiutosisa,Fontia,Fontia Earldom,Fonticalia,Fonticalian Empire,Human,Greek Deities,"914",740.48,938.57,-20.61,-9.15,"81",,,,,,,,./0.png
+-9.63,-21.15,"616",Rocca,Fontia,Fontia Earldom,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1009",728.86,951.69,-21.15,-9.63,"81",,,citadel,,,,,./0.png
+-11.71,9.26,"617",Kunshal,,,Neutrals,undefined,Gnome,No religion,"2236",678.96,221.75,9.26,-11.71,"100",,,citadel,walls,,,,./0.png
+9.87,8.58,"618",Wetheihau,,,Neutrals,undefined,Tiefling,No religion,"5118",1196.78,238.01,8.58,9.87,"100",,,,walls,,,,./0.png
+-25.11,3.67,"619",Olafsfla,,,Neutrals,undefined,Dwarf,No religion,"445",357.47,355.94,3.67,-25.11,"100",,,citadel,,plaza,,,./0.png
+-11.68,-21.42,"620",Vininistanel,Vetia,Vetia Shire,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2426",679.73,957.97,-21.42,-11.68,"100",,,,,,,,./0.png
+-6.04,5.99,"621",Skavolar,,,Neutrals,undefined,Dwarf,No religion,"2275",815.11,300.13,5.99,-6.04,"169",,,citadel,,,,,./0.png
+-6.45,4.88,"622",Golandvi,,,Neutrals,undefined,Dwarf,No religion,"2738",805.14,326.93,4.88,-6.45,"169",,,,walls,plaza,,,./0.png
+-20.63,1.99,"623",Neshofn,,,Neutrals,undefined,Dwarf,No religion,"1612",464.82,396.26,1.99,-20.63,"169",,,citadel,,plaza,,,./0.png
+-7.63,-9.99,"624",Saureykir,,,Neutrals,undefined,Dwarf,No religion,"440",776.81,683.75,-9.99,-7.63,"169",,,,,,,,./0.png
+0.6,-17.94,"625",Fondi,,,Neutrals,undefined,Human,No religion,"447",974.49,874.47,-17.94,0.6,"169",,,,,plaza,,,./0.png
+-11.13,6.28,"626",Hajfasarcag,,,Neutrals,undefined,Gnome,No religion,"2206",692.79,293.23,6.28,-11.13,"196",,,,,,,,./0.png
+-19.14,-1.65,"627",Trovina,,,Neutrals,undefined,Dwarf,No religion,"437",500.6,483.67,-1.65,-19.14,"289",,,,,,,,./0.png
+-17.59,1.19,"628",Esver,Stamland,Stamland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"5980",537.88,415.4,1.19,-17.59,"361",,,,walls,,,shanty town,./0.png
+14.1,-9.6,"629",Kotandaifu,,,Neutrals,undefined,Aarakocra,No religion,"3323",1298.4,674.34,-9.6,14.1,"361",,,citadel,walls,plaza,,,./0.png
+-10.34,6.19,"630",Haugrav,Bostad,Bostad County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"4095",711.88,295.51,6.19,-10.34,"529",,,citadel,walls,plaza,,,./0.png
+-25.35,-0.93,"631",Sangen,Mehamnia,Mehamnia Territory,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"2151",351.5,466.41,-0.93,-25.35,"676",,,citadel,,,,,./0.png
+-9.44,2.37,"632",Opeidals,Hofosen,Hofosen Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"454",733.37,387.09,2.37,-9.44,"900",,,citadel,,,,,./0.png
+-8.56,2.15,"633",Opeid,Hofosen,Hofosen Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"445",754.56,392.37,2.15,-8.56,"900",,,,,,,,./0.png
+14.54,17.12,"634",Karwin,,,Neutrals,undefined,Fairy,No religion,"5194",1308.88,33.22,17.12,14.54,"4",,,citadel,walls,plaza,,,./0.png
+-31.44,16.17,"635",Kunsza,,,Neutrals,undefined,Half-Orc,No religion,"655",205.5,56,16.17,-31.44,"4",,port,citadel,,plaza,,,./0.png
+-30.44,16.23,"636",Jarnstad,,,Neutrals,undefined,Kobold,No religion,"1720",229.5,54.5,16.23,-30.44,"4",,port,citadel,,,,,./0.png
+-6.87,15.26,"637",Blokhol,,,Neutrals,undefined,Dragonborn,No religion,"439",795.2,77.65,15.26,-6.87,"4",,,,walls,,,,./0.png
+26.04,15.08,"638",Elienillalye,Kafethond,Kafethond Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Drow),The Egyptian Pantheon,"5628",1585,82,15.08,26.04,"4",,port,citadel,walls,plaza,temple,,./0.png
+-31.14,14.71,"639",Fotalom,,,Neutrals,undefined,Half-Orc,No religion,"923",212.7,90.93,14.71,-31.14,"4",,,citadel,,,,,./0.png
+4.21,14.73,"640",Laugar,,,Neutrals,undefined,Dragonborn,No religion,"4425",1061.05,90.59,14.73,4.21,"4",,,,walls,plaza,,,./0.png
+7.48,15.19,"641",Julaisa,,,Neutrals,undefined,Yuan-ti,No religion,"2819",1139.5,79.5,15.19,7.48,"4",,port,,walls,plaza,,,./0.png
+8.54,14.77,"642",Awalabah,,,Neutrals,undefined,Yuan-ti,No religion,"1653",1164.94,89.45,14.77,8.54,"4",,,citadel,,plaza,,,./0.png
+-20.74,13.87,"643",Ogsvisafta,,,Neutrals,undefined,Bugbear,No religion,"5419",462.34,111.2,13.87,-20.74,"4",,,citadel,walls,plaza,temple,shanty town,./0.png
+8.42,14.15,"644",Almuwaq,,,Neutrals,undefined,Yuan-ti,No religion,"3641",1162,104.3,14.15,8.42,"4",,,,walls,,,,./0.png
+-23.56,13.54,"645",Skonga,,,Neutrals,undefined,Bugbear,No religion,"4372",394.63,119.11,13.54,-23.56,"4",,,citadel,walls,,,,./0.png
+-15.25,13.19,"646",Patis,,,Neutrals,undefined,Minotaur,No religion,"5324",593.94,127.54,13.19,-15.25,"4",,,,walls,,temple,shanty town,./0.png
+-34.22,12.6,"647",Borosztilis,,,Neutrals,undefined,Half-Orc,No religion,"1266",138.8,141.72,12.6,-34.22,"4",,,,walls,,,,./0.png
+-29.73,12.96,"648",Jasztaszabat,,,Neutrals,undefined,Half-Orc,No religion,"2817",246.42,133,12.96,-29.73,"4",,,,,,,,./0.png
+6.37,12.58,"649",Dhah,,,Neutrals,undefined,Yuan-ti,No religion,"461",1112.91,142.1,12.58,6.37,"4",,,,walls,plaza,,,./0.png
+-27.91,12.21,"650",Ekurneskar,,,Neutrals,undefined,Hobgoblin,No religion,"2050",290.23,151.08,12.21,-27.91,"4",,,citadel,walls,plaza,,,./0.png
+1.62,10.82,"651",Trellis,,,Neutrals,undefined,Dragonborn,No religion,"442",998.88,184.39,10.82,1.62,"4",,,citadel,walls,,,,./0.png
+-29.9,10.16,"652",Sudoboszhajos,,,Neutrals,undefined,Orc,No religion,"455",242.35,200.26,10.16,-29.9,"4",,,,walls,,,,./0.png
+-28.06,9.57,"653",Dunarosza,,,Neutrals,undefined,Orc,No religion,"487",286.58,214.35,9.57,-28.06,"4",,,,,,,,./0.png
+-1.21,9.71,"654",Sorholtnes,,,Neutrals,undefined,Dragonborn,No religion,"455",930.99,210.87,9.71,-1.21,"4",,,citadel,,,,,./0.png
+-28.08,9.27,"655",Hajdusterencs,,,Neutrals,undefined,Orc,No religion,"5873",286,221.5,9.27,-28.08,"4",,port,citadel,walls,,,,./0.png
+0.9,9.24,"656",Leikavoga,,,Neutrals,undefined,Dragonborn,No religion,"2991",981.5,222.21,9.24,0.9,"4",,,,walls,,,,./0.png
+-30.28,8.83,"657",Balompany,,,Neutrals,undefined,Orc,No religion,"3035",233.39,231.99,8.83,-30.28,"4",,,,walls,plaza,,,./0.png
+28.81,0.45,"658",Filhoralian,,,Neutrals,undefined,Elf,No religion,"1043",1651.39,433.21,0.45,28.81,"4",,,citadel,,,,,./0.png
+32.14,-2.01,"659",Kalin,,,Neutrals,undefined,Elf,No religion,"505",1731.4,492.25,-2.01,32.14,"4",,,,,,,,./0.png
+-37.16,-3.82,"660",Orcelbara,Guaro,Guaro County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2490",68.1,535.6,-3.82,-37.16,"4",,,,walls,,,,./0.png
+9.71,-10.56,"661",Bayant,,,Neutrals,undefined,Gith,No religion,"467",1193.07,697.32,-10.56,9.71,"4",,,citadel,walls,plaza,,,./0.png
+33.86,-13.08,"662",Ymnes,Sylfa,Sylfa Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1824",1772.64,757.9,-13.08,33.86,"4",,,,walls,,,,./0.png
+3.55,-14.41,"663",Menta,Pettefredrig,Pettefredrig County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"7250",1045.17,789.94,-14.41,3.55,"4",,,,walls,plaza,,,./0.png
+30.89,-14.04,"664",Draumariree,,,Neutrals,undefined,Elf,No religion,"423",1701.36,780.91,-14.04,30.89,"4",,,,,plaza,,,./0.png
+-37.94,-15.06,"665",Montatita,,,Neutrals,undefined,Human,No religion,"4390",49.46,805.44,-15.06,-37.94,"4",,,,,,,,./0.png
+-38.27,-15.75,"666",Spignano,,,Neutrals,undefined,Human,No religion,"664",41.5,822,-15.75,-38.27,"4",,port,citadel,,,,,./0.png
+-1.2,-17.71,"667",Accata,,,Neutrals,undefined,Human,No religion,"6521",931.29,869.01,-17.71,-1.2,"4",,,citadel,walls,plaza,,,./0.png
+32.01,-18.08,"668",Thillelie,Inerionnor,Inerionnor County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"2568",1728.26,877.94,-18.08,32.01,"4",,,citadel,walls,,,,./0.png
+35.83,-18.85,"669",Ollmluna,Iquasenat,Iquasenat Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"4756",1819.86,896.33,-18.85,35.83,"4",,,citadel,walls,,temple,shanty town,./0.png
+17.33,-19.69,"670",Popoolea,,,Neutrals,undefined,Firbolg,No religion,"4919",1375.8,916.56,-19.69,17.33,"4",,,,walls,,temple,shanty town,./0.png
+35.38,-20,"671",Hloitys,Eseras,Eseras County,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"436",1809.03,923.94,-20,35.38,"4",,,,,plaza,,,./0.png
+34.08,-22.08,"672",Gualluguall,Matha,Matha Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"424",1777.85,973.81,-22.08,34.08,"4",,,citadel,,,,,./0.png
+33.1,-22.73,"673",Dofe'asena,Matha,Matha Earldom,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"1872",1754.3,989.5,-22.73,33.1,"4",,,,,,,,./0.png
+29.75,-23.35,"674",Eanarien,Hlyve,Hlyve Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"431",1673.95,1004.37,-23.35,29.75,"4",,,citadel,,plaza,,,./0.png
+5.22,-24.89,"675",Golsfabad,,,Neutrals,undefined,Leonin,No religion,"450",1085.38,1041.33,-24.89,5.22,"4",,,,,,,,./0.png
+9.04,12.67,"676",Mushasisa,,,Neutrals,undefined,Yuan-ti,No religion,"465",1177.07,140,12.67,9.04,"9",,,citadel,,plaza,,,./0.png
+28.12,3.93,"677",Illenathet,,,Neutrals,undefined,Elf,No religion,"931",1634.9,349.67,3.93,28.12,"9",,,citadel,,,,,./0.png
+-4.15,-10.55,"678",Bolto,Ancignania,Ancignania Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"445",860.37,697.15,-10.55,-4.15,"9",,,citadel,walls,plaza,,,./0.png
+-16.51,-11.97,"679",Cheng,,,Neutrals,undefined,Tortle,No religion,"433",563.73,731.17,-11.97,-16.51,"9",,,,walls,plaza,,,./0.png
+2.32,-13.77,"680",Segliano,Fulia,Fulia Landgrave,Fonticalia,Fonticalian Empire,Human,Greek Deities,"3392",1015.58,774.52,-13.77,2.32,"9",,,citadel,walls,plaza,,,./0.png
+29.54,-14.8,"681",Ryarendesthe,,,Neutrals,undefined,Elf,No religion,"2430",1669.01,799.13,-14.8,29.54,"9",,,citadel,,plaza,,,./0.png
+30.47,-14.97,"682",Ollmmarwinfe,,,Neutrals,undefined,Elf,No religion,"2682",1691.17,803.29,-14.97,30.47,"9",,,,walls,plaza,,,./0.png
+-0.49,-17.83,"683",Viglianagno,,,Neutrals,undefined,Human,No religion,"481",948.32,871.9,-17.83,-0.49,"9",,,,,plaza,,,./0.png
+27.45,6.42,"684",Tuusara,,,Neutrals,undefined,Owlin,No religion,"4770",1618.86,289.9,6.42,27.45,"16",,,,walls,plaza,temple,shanty town,./0.png
+26.24,3.65,"685",Efranneadhe,,,Neutrals,undefined,Elf,No religion,"4805",1589.83,356.37,3.65,26.24,"16",,,citadel,walls,,temple,shanty town,./0.png
+18.96,2.38,"686",Nilesi,Cyveralos,Cyveralos Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Eladrin),The Egyptian Pantheon,"2651",1415.13,386.87,2.38,18.96,"16",,,citadel,walls,plaza,,,./0.png
+19.43,-4.76,"687",Melolis,,,Neutrals,undefined,Kender,No religion,"5698",1426.41,558.13,-4.76,19.43,"16",,,citadel,walls,,,shanty town,./0.png
+15.01,-11.89,"688",Nagawa,,,Neutrals,undefined,Aarakocra,No religion,"4330",1320.34,729.37,-11.89,15.01,"16",,,,walls,,,,./0.png
+-12.53,-23.4,"689",Gorvano,Sontia,Sontia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"1018",659.19,1005.57,-23.4,-12.53,"16",,,citadel,,,,,./0.png
+10.87,-8.27,"690",Cragrater,,,Neutrals,undefined,Kalashtar,No religion,"459",1220.9,642.48,-8.27,10.87,"25",,,citadel,,,,,./0.png
+-12.1,-24.19,"691",Baglia,Ventia,Ventia County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"4280",669.67,1024.58,-24.19,-12.1,"25",,,citadel,,plaza,,,./0.png
+-6.97,-24.85,"692",Fontano,Cotelilac,Cotelilac County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"449",792.7,1040.5,-24.85,-6.97,"25",,,citadel,,,,,./0.png
+-23.42,11.13,"693",Opeidrek,,,Neutrals,undefined,Dwarf,No religion,"679",398,177,11.13,-23.42,"36",,port,citadel,,plaza,,,./0.png
+3.68,-2.91,"694",Magliame,,,Neutrals,undefined,Aasimar,No religion,"2180",1048.41,513.95,-2.91,3.68,"36",,,,,plaza,,,./0.png
+26.86,-5.56,"695",Ganame,,,Neutrals,undefined,Elf,No religion,"3977",1604.56,577.49,-5.56,26.86,"36",,,citadel,,plaza,,,./0.png
+5.85,-6.57,"696",Abermain,,,Neutrals,undefined,Satyr,No religion,"2042",1100.45,601.6,-6.57,5.85,"36",,,citadel,,,,,./0.png
+28.65,-6.51,"697",Sheo'an,,,Neutrals,undefined,Elf,No religion,"8212",1647.48,600.21,-6.51,28.65,"36",,,citadel,walls,plaza,,shanty town,./0.png
+-25.37,-21.78,"698",Roccata,,,Neutrals,undefined,Human,No religion,"1702",351,966.75,-21.78,-25.37,"36",,,,,plaza,,,./0.png
+-10.22,-22.76,"699",Castritelle,Cervolalom,Cervolalom County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2082",714.69,990.21,-22.76,-10.22,"36",,,citadel,,,,,./0.png
+-16.55,-23.87,"700",Guicalicari,Gecorso,Gecorso County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2276",562.92,1016.77,-23.87,-16.55,"36",,,citadel,,,,,./0.png
+23.42,4.67,"701",Shemnalasle,,,Neutrals,undefined,Elf,No religion,"476",1522.06,332,4.67,23.42,"49",,,citadel,,,,,./0.png
+-19.01,3.12,"702",Hvolstad,,,Neutrals,undefined,Dwarf,No religion,"483",503.66,369.17,3.12,-19.01,"49",,,,,,,,./0.png
+-4.29,-4.79,"703",Hovdenland,,,Neutrals,undefined,Dwarf,No religion,"1032",856.94,559.05,-4.79,-4.29,"49",,,,,,,,./0.png
+3.91,-5.36,"704",Inve,,,Neutrals,undefined,Satyr,No religion,"4613",1053.85,572.75,-5.36,3.91,"49",,,,walls,plaza,,,./0.png
+21.91,9.63,"705",Tlindrin,Edranalon,Edranalon Shire,Dranzandyndor,Empire of Dranzandyndor,Elf,The Egyptian Pantheon,"416",1485.84,212.92,9.63,21.91,"64",,,,,,,,./0.png
+17.06,-8.7,"706",Peonulili,,,Neutrals,undefined,Kenku,No religion,"3767",1369.4,652.8,-8.7,17.06,"64",,,,,plaza,,,./0.png
+19.24,1.52,"707",Heth Aine,Cyveralos,Cyveralos Shire,Dranzandyndor,Empire of Dranzandyndor,Elf (Eladrin),The Egyptian Pantheon,"3182",1421.78,407.59,1.52,19.24,"81",,,,walls,plaza,,,./0.png
+-10.91,-1.05,"708",Syrivover,,,Neutrals,undefined,Dwarf,No religion,"1669",698.07,469.13,-1.05,-10.91,"81",,,,,,,,./0.png
+-10.24,-20.92,"709",Segliolo,Ciampo,Ciampo County,Fonticalia,Fonticalian Empire,Human,Greek Deities,"2270",714.17,946.12,-20.92,-10.24,"81",,,,,,,,./0.png
+-7.49,5.4,"710",Sudarnesda,,,Neutrals,undefined,Dwarf,No religion,"451",780.31,314.4,5.4,-7.49,"100",,,,,,,,./0.png
+-9.06,0.16,"711",Klakki,,,Neutrals,undefined,Dwarf,No religion,"448",742.52,440.26,0.16,-9.06,"100",,,citadel,walls,,,,./0.png
+-17.04,-1.42,"712",Enhavik,,,Neutrals,undefined,Dwarf,No religion,"450",551.04,477.98,-1.42,-17.04,"100",,,,,,,,./0.png
+-6.69,-1.99,"713",Sofrost,,,Neutrals,undefined,Dwarf,No religion,"905",799.33,491.84,-1.99,-6.69,"100",,,,walls,,,,./0.png
+-12.17,-2.98,"714",Ovisafta,Vastad,Vastad Margrave,Tragbigia,Empire of Tragbigia,Dwarf (Duergar),The Norse Pantheon,"1850",667.9,515.49,-2.98,-12.17,"100",,,citadel,,,,,./0.png
+-4.48,-5.8,"715",Vopeid,,,Neutrals,undefined,Dwarf,No religion,"1993",852.48,583.08,-5.8,-4.48,"100",,,citadel,,,,,./0.png
+11.17,9.91,"716",Benilkyn,,,Neutrals,undefined,Tiefling,No religion,"450",1228.03,206.27,9.91,11.17,"121",,,citadel,,,,,./0.png
+-9.61,0.73,"717",Utsvik,,,Neutrals,undefined,Dwarf,No religion,"2567",729.47,426.4,0.73,-9.61,"144",,,,walls,,,,./0.png
+10.25,6.23,"718",Khulssin,,,Neutrals,undefined,Tiefling,No religion,"1215",1206.1,294.52,6.23,10.25,"169",,,,walls,plaza,,,./0.png
+-17.11,0.29,"719",Flaksreyda,Breidravik,Breidravik County,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"456",549.42,437,0.29,-17.11,"196",,,citadel,walls,,,,./0.png
+-7.68,-0.23,"720",Gravden,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"446",775.74,449.62,-0.23,-7.68,"196",,,citadel,,plaza,,,./0.png
+-10.14,-1.83,"721",Kjelde,Breidland,Breidland Earldom,Tragbigia,Empire of Tragbigia,Dwarf,The Norse Pantheon,"4022",716.53,487.83,-1.83,-10.14,"196",,,citadel,walls,plaza,,,./0.png
